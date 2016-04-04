@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: A origem
 ---
 
-<h1> A origem</h1>
+
 Meu nome é Emmanuelle Victória Richard de Moura, tenho 13 anos, estudo no 2º ano do Ensino médio e sou de Natal/RN.
 A programação sempre esteve presente na minha vida.  Meu pai é programador e sempre  incentivava a mim e minhas irmãs a programarem (somos três irmãs: Isabelle, Emmanuelle e Richelle). 
 Ele sempre nos levava a eventos da área e era incrível ver o que os participantes faziam.  Eu sempre gostei de ir, principalmente pelo coffee break. Se você ainda não experimentou os lanches que eles servem, você não sabe o que está perdendo. Era incrível ver o que aquelas pessoas faziam.  O poder, o conhecimento que elas detinham e como elas adoravam compartilhá-los.  
