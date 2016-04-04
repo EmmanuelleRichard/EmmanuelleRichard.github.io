@@ -10,6 +10,6 @@ Ele sempre nos levava a eventos da área e era incrível ver o que os participan
 Esse foi um dos motivos que fez com que eu me apaixonasse pela programação.  Nesta área, não existe gente mesquinha em relação ao saber.  Os programadores gostam de ajudar uns aos outros.  Principalmente porque sabem que o conhecimento nessa área é muito dinâmico e torna-se obsoleto muito rápido.
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/restaurantecoreano.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
