@@ -32,7 +32,7 @@ Acredito que, também, sem sentido para um adulto.  <br/>
 No segundo semestre de 2014, eu, meu pai e minha irmã mais velha, fomos à Campus Party Recife.  Foi nossa primeira Campus Party.  Fomos de carro em uma viagem de cerca de 5 horas.  Como não tínhamos experiência com este evento, não ficamos nas barracas. <br/><br/> 
 
 Meu pai arranjou um apartamento emprestado de um amigo e, lá prá meia noite íamos para o apartamento dormir.  No dia seguinte chegavamos lá pelas 9:00h.  Ficávamos sempre com a sensação de que saiamos deixando de participar de muita coisa legal e que quando chegavamos tinhamos perdido, também, muita coisa legal.  A Campus não para.  Depois das palestas, que encerram-se lá prás 23:00h tem muita coisa que acontece.  Muitas atividades.  Jogos, competições, filmes…   </br>
-Na volta para casa decidimos que iriamos à de São Paulo.  Mas desta vez, ficaríamos acampados para aproveitar ao máximo tudo.  <br/><br/>
+Na volta para casa decidimos que iriamos à de São Paulo.  Mas desta vez, ficaríamos acampados para aproveitar ao máximo tudo.  
 
 No começo de 2015, meu pai, eu e minha irmã mais velha fomos para a Campus Party Brasil, que ocorre em São Paulo.  Desta vez ficamos acampados.   <br/><br/>
 
