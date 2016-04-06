@@ -44,7 +44,7 @@ Minha irmã Richelle não queria de jeito nenhum ir dormir...
 
 Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 ( http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html ).  Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!   
 
-<img src="/images/20150204_133302.jpg" alt="Foto com Nicolelis" class="inline"/> 
+<img src="/images/20150204_133302.jpg" alt="Foto com Nicolelis " class="inline"/> 
 
 <h1><strong>Programaê</strong></h1> 
 
