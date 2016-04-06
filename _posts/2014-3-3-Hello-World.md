@@ -2,8 +2,10 @@
 layout: post
 title: A Jornada - Beta
 ---
+<img src="/images/11889590_732908733503569_3604388608228844557_n.jpg" alt="hi" class="inline"/>
 
-[Palestra Campus Party Recife]({{ site.baseurl }}/images/11889590_732908733503569_3604388608228844557_n.jpg)
+
+![Palestra Campus Party Recife]({{ site.baseurl }}/images/11889590_732908733503569_3604388608228844557_n.jpg)
 <h1><strong>Origem</strong></h1> 
 Meu nome é Emmanuelle Victória Richard de Moura, tenho 13 anos, estudo no 2º ano do Ensino médio e sou de Natal/RN.
 A programação sempre esteve presente na minha vida.  Meu pai é programador e sempre  incentivava a mim e minhas irmãs a programarem (somos três irmãs: Isabelle, Emmanuelle e Richelle).  
