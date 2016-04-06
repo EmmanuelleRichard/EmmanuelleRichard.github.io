@@ -28,22 +28,22 @@ Eles me mandavam e me ensinavam a fazer coisas um pouco sem lógica para uma cri
 Acredito que, também, sem sentido para um adulto.  <br/>
 
 <h1><strong>Redenção</strong></h1> <br/>
-No segundo semestre de 2014, eu, meu pai e minha irmã mais velha, fomos à Campus Party Recife.  Foi nossa primeira Campus Party.  Fomos de carro em uma viagem de cerca de 5 horas.  Como não tínhamos experiência com este evento, não ficamos nas barracas. <br/>
+No segundo semestre de 2014, eu, meu pai e minha irmã mais velha, fomos à Campus Party Recife.  Foi nossa primeira Campus Party.  Fomos de carro em uma viagem de cerca de 5 horas.  Como não tínhamos experiência com este evento, não ficamos nas barracas. <br/><br/>
 
 Meu pai arranjou um apartamento emprestado de um amigo e, lá prá meia noite íamos para o apartamento dormir.  No dia seguinte chegavamos lá pelas 9:00h.  Ficávamos sempre com a sensação de que saiamos deixando de participar de muita coisa legal e que quando chegavamos tinhamos perdido, também, muita coisa legal.  A Campus não para.  Depois das palestas, que encerram-se lá prás 23:00h tem muita coisa que acontece.  Muitas atividades.  Jogos, competições, filmes…   </br>
-Na volta para casa decidimos que iriamos à de São Paulo.  Mas desta vez, ficaríamos acampados para aproveitar ao máximo tudo.  <br/>
+Na volta para casa decidimos que iriamos à de São Paulo.  Mas desta vez, ficaríamos acampados para aproveitar ao máximo tudo.  <br/><br/>
 
-No começo de 2015, meu pai, eu e minha irmã mais velha fomos para a Campus Party Brasil, que ocorre em São Paulo.  Desta vez ficamos acampados.   <br/>
+No começo de 2015, meu pai, eu e minha irmã mais velha fomos para a Campus Party Brasil, que ocorre em São Paulo.  Desta vez ficamos acampados.   <br/><br/>
 
-<font color="#0000FF">Foto nas barracas - campus</font> <br/>
-Mas ninguém quer ficar nas barracas.  Simplesmente a gente não quer dormir para aproveitar tudo!  <br/>
+<font color="#0000FF">Foto nas barracas - campus</font> <br/><br/>
+Mas ninguém quer ficar nas barracas.  Simplesmente a gente não quer dormir para aproveitar tudo!  <br/><br/>
 
-<font color="#0000FF">Foto alice jogando - campus</font> <br/>
-Minha irmã Richelle não queria de jeito nenhum ir dormir...  <br/>
+<font color="#0000FF">Foto alice jogando - campus</font> <br/><br/>
+Minha irmã Richelle não queria de jeito nenhum ir dormir...  <br/><br/>
 
-Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 ( http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html ).  Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!  <br/>
+Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 ( http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html ).  Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!  <br/><br/>
 
-<font color="#0000FF">Foto com Nicolelis - campus</font> <br/>
+<font color="#0000FF">Foto com Nicolelis - campus</font> <br/><br/>
 
 <h1><strong>Programaê</strong></h1> <br/>
 <font color="#0000FF">Foto com o bruno - campus</font> <br/>
