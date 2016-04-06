@@ -235,8 +235,7 @@ Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele 
 Após elas se acomodarem eu e o professor Isidro nos apresentamos e contamos um pouco de como iria ser.   
 
 <a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a>  
-
-
+  
 Liberamos pro coffee breake, e eu conheci a maioria das crianças.  Tinha uns que faziam coisas que para eles não pareciam muito importantes e legais mas para mim era incrível.    
 
 Lembro de um menino que andava com um cubo mágico de um lado para o outro e em um instante o resolvia.  Parecia mesmo mágica!  
@@ -244,23 +243,30 @@ Lembro de um menino que andava com um cubo mágico de um lado para o outro e em 
 Um youtuber muito estiloso que andava de um lado para o outro com um caderninho e uma caneta em mãos junto do celular registrando tudo.  
 
 E, uma menina que adora kpop, assim como eu, e que sabe falar em coreano e ano que vem vai estudar na coreia.   
-Esses são algumas das pessoas incríveis que conheci, e todo eles não achavam que aquilo que fazia é incrível ou especial.  
-
-<img src="/images/12885979_852823264823318_2637205354483228235_o.jpg" alt="Foto com o pessoa da palestra" class="inline"/>      
-
+  
+Essas são algumas das pessoas incríveis que conheci, e todo eles não achavam que aquilo que fazia é incrível ou especial.  
+  
+<img src="/images/12885979_852823264823318_2637205354483228235_o.jpg" alt="Foto com o pessoa da palestra" class="inline"/>     
 Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de vagas, mas apenas 400 mil profissionais capacitados – ou seja, um milhão de vagas sobrando. E isso é apenas nos Estados Unidos. Veja neste link:
+  
 <a href="http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/">http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/</a>  
+  
 <a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
-
+  
 <h2>QUEM É O PROFESSOR ISIDRO MASSETTO</h2>
   
 <img src="/images/FB_IMG_1459115420148.jpg" alt="Foto com o Isidro" class="inline"/>   
   
 PhD Computer Engineering (Doutor em Engenharia da Computação)  
+  
 Pesquisador em Game Development, Cloud, Mobile  
+  
 Fundador da TechSchool - Instituto de Tecnologia  
+  
 Curador do palco Desenvolvimento da Campus Party  
+  
 Empreendedor  
+  
 Programador e apaixonado por ensinar programação  
   
 <h2>Programaê na Php Experience’2016</h2>
