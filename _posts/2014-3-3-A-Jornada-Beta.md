@@ -20,7 +20,6 @@ A única mulher lá era a recepcionista.
 Era um pouco difícil ir para as aulas pois eu achava muito complicado tudo.  Lá era código bruto mesmo, php , Java e outras linguagens.  Os professores ensinavam coisas que eu nem entendia direito e além de ser nada didático nem divertido, eu não entendia a necessidade de fazer as coisas que ele pedia.   
   
 > -Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!  
-  
 > -Tá, legal, mas pra que eu vou usar isso?  
   
 Eles me mandavam e me ensinavam a fazer coisas um pouco sem lógica para uma criança. 
@@ -57,15 +56,11 @@ Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: �
 ><h3>Sobre o Programaê</h3>
 
 >A programação é vista por muitos como um bicho de sete cabeças. Criar um software ou aplicativo sem estudo formal em uma faculdade especializada parece ser uma tarefa impossível. Queremos provar que não é bem assim e que, na verdade, qualquer um pode aprender a programar: basta falar a língua dos computadores.  
-
 >O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
-
 >O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
-
 >Nosso objetivo é aproximar a programação do cotidiano de jovens de todo o Brasil. Pra fazer isso, desenvolvemos um portal prático e agregador de ideias, soluções e dicas de pessoas experientes e inspiradoras. Dá só uma olhada no nosso manifesto e faça parte deste movimento que quer transformar o mundo e ajudá-lo a criar um todinho seu!   
 
 ><h4>Manifesto: </h4> 
-
 >* Imagine criar o que você sonha.
 >* Transformar o que você não concorda.
 >* Reinventar o mundo e a você mesmo.
@@ -74,17 +69,11 @@ Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: �
 >* Em ideias.
 
 >Imagine usar suas ideias como combustível para crescer. 
-
 >Eu invento meu mundo por códigos.  
-
 >A minha arte vive entre parênteses e colchetes.   
-
 >Eu acredito na programação porque eu crio minhas próprias portas, desenho o caminho que vou seguir.   
-
 >Foi programando que eu aprendi que o meu mundo, crio eu.  
-
 >E você também pode criar o seu!  
-
 ><a href="http://www.programae.org.br ">http://www.programae.org.br</a> 
 
 <h1><strong>Campus Party Recife 2015</strong></h1>  
@@ -145,6 +134,7 @@ Pois bem, eu lhe disse:  - “Até o fim deste ano eu farei meu primeiro aplicat
 <img src="/images/11326432_118752478466757_1209250096_n.jpg" alt="Meu pai" class="inline"/>   
   
 Meu pai me apoiou completamente.  Mas deixou bem claro que iria ajudar; não fazer por mim.  
+  
 Começamos a pensar o que faríamos.  Depois de muito “Brainstorm” (processo no qual liberamos geral a criatividade e a leseira), lembrei-me da feira de ciências da escola, que chamamos de “Jornada”.  
   
 A Jornada é uma feira de ciências que envolve a escola toda.  As turmas são divididas em  grupos com temas, vários alunos e um ou mais professor orientador.  E as apresentações são realizadas nas salas de aula.  
@@ -162,7 +152,9 @@ Ela nos encaminhou para falarmos com a Assessora de Marketing, que nos passaria 
   
 <h2>Desafiada</h2>
   
-O jeito que a Diretora me tratou, por mais que tenha sido delicada, meiga e cortês, eu fiquei com a impressão de que ela não me disse não por questão de pedagogia ou psicologia e que, no fundo, não acreditava muito que uma aluna da escola fosse capaz, realmente de fazer um aplicativo desses.  Mesmo assim deixou só para não me deixar triste com o seu pensamento.  Acho que tem algo com a “pedagogia”, rs rs rs.  Não dizer para uma pessoa que ela não é capaz… rs rs rs  Acredito que minha impressão tenha sido exagerada, mas é porque em Natal não há fomento nem incentivo para desenvolvimento tecnológico, muito menos para programação.  Tenho certeza de que ela não teve esse pensamento, mas eu fiquei com essa pulga atrás da orelha...   
+O jeito que a Diretora me tratou, por mais que tenha sido delicada, meiga e cortês, eu fiquei com a impressão de que ela não me disse não por questão de pedagogia ou psicologia e que, no fundo, não acreditava muito que uma aluna da escola fosse capaz, realmente de fazer um aplicativo desses.  Mesmo assim deixou só para não me deixar triste com o seu pensamento.  Acho que tem algo com a “pedagogia”, rs rs rs.  Não dizer para uma pessoa que ela não é capaz… rs rs rs  
+  
+Acredito que minha impressão tenha sido exagerada, mas é porque em Natal não há fomento nem incentivo para desenvolvimento tecnológico, muito menos para programação.  Tenho certeza de que ela não teve esse pensamento, mas eu fiquei com essa pulga atrás da orelha...   
   
 Antes de me desestimular só me fez encarar o aplicativo ainda mais como um desafio.  Já que eu iria mostrar não só para ela, mas também para todas as outras pessoas que ficaram sabendo, já que a história “vazou”.... rs rs rs   
   
@@ -293,7 +285,6 @@ Usamos o jogo do Angry Birds e do Star Wars, foi muito divertido. Para auxiliar 
 Quando a gente começou a fazer os jogos muitos ficaram com medo de errar e eu entendo esse lado deles, todos os dias os nossos pais, a nossa família e até na escola eles não querem que erremos, querem que sempre tiremos notas altas e sejam os melhores, mas eles deveriam entender mais que  não é bem assim, temos dificuldade e na maioria medo de assumir elas e o que eles irão pensar.  
   
 > - Isso é só desculpa para tirar uma nota baixa!  
-  
 > - Você não tem motivo nenhum para tirar notas baixas!  
   
 Mas temos sim, não somos bons em tudo e as vezes essa pressão em ser o melhor e nunca errar pesa na consciência, como no caso daqueles que estavam assistindo a palestra. Eu passo por isso porque eles não passariam? Mas o que eu queria também mostrar para eles que errar faz parte, que se você errar pode tentar de novo e de novo até acertar.  
