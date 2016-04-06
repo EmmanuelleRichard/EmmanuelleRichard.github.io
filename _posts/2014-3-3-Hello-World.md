@@ -19,9 +19,10 @@ A única mulher lá era a recepcionista.
 
 Era um pouco difícil ir para as aulas pois eu achava muito complicado tudo.  Lá era código bruto mesmo, php , Java e outras linguagens.  Os professores ensinavam coisas que eu nem entendia direito e além de ser nada didático nem divertido, eu não entendia a necessidade de fazer as coisas que ele pedia.   
   
-> -Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!
+> -Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!  
+  
 > -Tá, legal, mas pra que eu vou usar isso?  
-
+  
 Eles me mandavam e me ensinavam a fazer coisas um pouco sem lógica para uma criança. 
   
 Acredito que, também, sem sentido para um adulto.   
@@ -124,118 +125,128 @@ Olha só quem estava no palco:
   <li>Eiran Simis. Criador do eventplatz.com (plataforma de busca e oferta de espaços para eventos), é gerente da área de Empreendedorismo do Centro de Estudos e Sistemas Avançados do Recife, consultor do Porto Digital e do SEBRAE, curador da Campus Party e professor de pós graduação do CESAR.EDU, UPE e da Uninassau. Já foi membro do conselho de administração da SiliconReef S/A.</li>
     <li>Vinicius Gracia.  Atual CTO & Founder da Easy Taxi. Ele é responsável por toda arquitetura, sistemas e apps de 32 países e tem como missão que o mesmo aplicativo, usado ao redor do globo funcione e se adapte as necessidades diferentes de cada região. Está na Easy Taxi desde a concepção da ideia e realizou o projeto e desenvolvimento de todos os sistemas necessários para a operação. Vinícius sempre teve espirito empreendedor, participou do desenvolvimento um sistema de helpdesk para IBM, todo baseado em web, antes da internet existir no Brasil, era necessário conectar com a IBM, atráves de internet discada, ligando para os EUA. Desenvolveu sistemas de helpdesk para Acer, Packard Bell, o Compaq Phone, Vários provedores de internet como Mandic, Domain, Openlink. É sócio de mais duas empresas de tecnologia, JGracia informática que faz todo sistema de delivery e gerencia de franquias do Giraffas e da Techsamurai que foi onde surgiu a Easy Taxi. Formado em ciência da computação nos Estados Unidos e Engenharia da Computação no Brasil. Vinicius já viajou o mundo mergulhando em diversos locais, como Egito, Cuba, México, Costa Rica, Israel, Grécia, inclusive é sócio e fundador de uma escola de mergulho no Rio de Janeiro, chamada Dive Point.</li>
 </ul>
+  
 Só Gente TOP!!!!  
 
 Eu achava que tinha poucas pessoas lá mas pelo contrário, tinha até gente em pé. A perspectiva de baixo é muito diferente da de lá de cima do palco.  Com uma multidão de pessoas lhe olhando.  Eu não tinha me preparado para falar em público, mas deixei “rolar” e contei da minha experiência com a programação e de como o Programaê foi importante para que eu decidisse o que quero fazer na vida.  
-
+  
 Eu acabei gostando de compartilhar minha experiência com aquelas pessoas, mas  o mais engraçado é que era uma criança falando para um monte de adultos.   
-
+  
 Enquanto estava no palco eu tratei de forma séria e responsável, mas quando desci, senti-me muito feliz.  É prazeroso compartilhar nossas experiências e conhecimentos com outras pessoas.  
-
+  
 Na volta para casa eu disse para meu pai que queria fazer um aplicativo.  Ele me disse que ajudaria se eu tivesse uma meta SMART (eSpecífica, Mensurável, Alcançável, Realizável e com Tempo definido).  
-
+  
 Pois bem, eu lhe disse:  - “Até o fim deste ano eu farei meu primeiro aplicativo”!  
-
-<h1><strong>Primeiro APP</strong></h1>
-
+  
+<h1>Primeiro APP</h1>
+  
 <h2>Apoio</h2>
-<img src="/images/11326432_118752478466757_1209250096_n.jpg" alt="Meu pai" class="inline"/>  
-
+  
+<img src="/images/11326432_118752478466757_1209250096_n.jpg" alt="Meu pai" class="inline"/>   
+  
 Meu pai me apoiou completamente.  Mas deixou bem claro que iria ajudar; não fazer por mim.  
 Começamos a pensar o que faríamos.  Depois de muito “Brainstorm” (processo no qual liberamos geral a criatividade e a leseira), lembrei-me da feira de ciências da escola, que chamamos de “Jornada”.  
-
+  
 A Jornada é uma feira de ciências que envolve a escola toda.  As turmas são divididas em  grupos com temas, vários alunos e um ou mais professor orientador.  E as apresentações são realizadas nas salas de aula.  
 Algumas salas de aula recebem vários grupos.  
-
+  
 O meu pai sempre tinha dificuldade para encontrar a sala onde estávamos apresentando nossas atividades.  A escola afixa cartazes com a programação,  distribui panfletos e disponibiliza uma pessoa na recepção para orientar, mas não é prático e, para piorar, há alterações de última hora.  
-
+  
 Um aplicativo em que a direção pudesse cadastrar as informações das atividades em tempo real seria muito útil.  
-
+  
 <h2>Permissão da Diretora</h2>
+  
 Decidido o que faríamos fomos pedir permissão da diretora.  Ela achou muito estranho que uma aluna da escola fizesse uma proposta dessas, mas deu o seu aval.  
-
+  
 Ela nos encaminhou para falarmos com a Assessora de Marketing, que nos passaria os detalhes da organização do evento.  
-
+  
 <h2>Desafiada</h2>
+  
 O jeito que a Diretora me tratou, por mais que tenha sido delicada, meiga e cortês, eu fiquei com a impressão de que ela não me disse não por questão de pedagogia ou psicologia e que, no fundo, não acreditava muito que uma aluna da escola fosse capaz, realmente de fazer um aplicativo desses.  Mesmo assim deixou só para não me deixar triste com o seu pensamento.  Acho que tem algo com a “pedagogia”, rs rs rs.  Não dizer para uma pessoa que ela não é capaz… rs rs rs  Acredito que minha impressão tenha sido exagerada, mas é porque em Natal não há fomento nem incentivo para desenvolvimento tecnológico, muito menos para programação.  Tenho certeza de que ela não teve esse pensamento, mas eu fiquei com essa pulga atrás da orelha...   
-
+  
 Antes de me desestimular só me fez encarar o aplicativo ainda mais como um desafio.  Já que eu iria mostrar não só para ela, mas também para todas as outras pessoas que ficaram sabendo, já que a história “vazou”.... rs rs rs   
-
+  
 Com o aval da Diretora, agendamos uma reunião com a Assessora de Marketing para outro dia, pois ela não encontrava-se na escola.    
-
+  
 Foi melhor assim porque pude me preparar melhor.  
-
+  
 <h2>Reunião de negócios</h2>
+  
 Fomos eu e meu pai para a reunião.  Como ele já é experiente em reuniões de negócios, me orientou a como vestir-me e me deu algumas dicas de como me comportar e até como apertar a mão para passar firmeza e segurança.  Ele me fez entender que esta seria uma reunião de negócios e que a escola deveria ser tratada por mim como meu primeiro cliente.  
-
+  
 A reunião foi tranquila.  A Assessora passou-me vários materiais que ela tinha, relacionados ao evento do ano anterior.  
-
+  
 Mas eu tinha imaginado algo muito mais simples… brrrrr….  
-
+  
 <h2>Sangue, suor e lágrimas</h2>
+  
 Meu pai não me deu moleza…  
-
+  
 Ele impôs que o sistema teria que ter várias características, pois já que eu havia decidido embarcar, que fosse com estilo!  
-
+  
 A parte client do sistema teria uma versão web e outra mobile, sendo que ambas teriam o mesmo código (eita!).  Assim o sistema seria acessível para quem tem smartphone e quem não tem acessaria via browser.  Facilitaria, também,  para a direção da escola poder cadastrar e alterar, de forma muito mais prática.  
-
+  
 Porisso teria que ter um módulo servidor, que foi desenvolvido em Ruby on Rails com banco de dados em Mysql.  
-
+  
 Teria que ter controle de usuários, para determinar quem poderia alterar os dados.  
-
+  
 E, como nem todos têm acesso à internet o tempo todo, teria que funcionar offline.  
-
+  
 Simplesmente, mega simples….  
-
+  
 Felizmente o meu pai ficou responsável pelo Server e eu pelo client.  Ele me passou várias dicas e orientações, mas, por mais que me eu insistisse para ele mexer no meu código, ele só ficou na orientação.  
-
+  
 Mas, consegui!  
-
+  
 <h2>Entrega</h2>
+  
 Quando mostrei o aplicativo para a  Diretora da escola, ela ficou super empolgada ( e super hiper mega feliz).  Ela não acreditava que uma criança da sua escola fosse capaz de um feito desses.   Ela chamou a supervisora, coordenadora, assessora de marketing, e todo mundo da “cúpula” para mostrar o app.  Eu me senti nas nuvens. Eles passaram a me olhar e a me tratar diferente.  
-
+  
 Até a dona da escola falou comigo!  
-
+  
 <h2>Júbilo</h2>
+  
 Quando a gerente de marketing divulgou o aplicativo e o número de downloads começou a subir foi maravilhoso.  A todo instante eu verificava na loja.  
-
+  
 É sensacional ver as pessoas usando o aplicativo que eu fiz.  É indescritível (chega a ser melhor que ganhar um presente que você quer muito).   
-
+  
 Fico imaginando como deve ser para Zuckerberg, Bill Gates, Steve Jobs e todos os outros, ter milhares de pessoas usando algo que você criou e que está impactando as vidas delas.  
-
+  
 E no dia da Feira de ciências, que eu cheguei lá, vi as pessoas usando e algumas baixando na hora.  Foi maravilhoso. 
 Colocaram até uns cartazes divulgando o app na escola, e muitas pessoas que eu nem conhecia vieram falar comigo sobre ele.  Perguntando como eu consegui fazer, o que elas precisavam para fazer um também, me elogiando ^-^, foi muito legal.   
-
+  
 Fiquei sabendo depois que na jornada, os pais que não tinham o app e que chagavam perguntando para a recepcionista onde seus filhos estavam ou sobre alguma palestra, ela rapidamente sacava o aplicativo e indicava a sala onde ocorria a apresentação e ainda mostrava o mapa.  
-
+  
 <h2>Primeiro evento</h2>
+  
 Tinha acabado de chegar em casa, era uma terça-feira e estava na hora do almoço, e teria que almoçar rápido para voltar a escola. Quando recebo uma mensagem; era o Bruno me convidando para ir palestrar na Php Experience’2016 em São Paulo.  Quase caí da escada quando fui mostrar para o meu pai.  Mas, sobrevivi.  Acho que nunca me senti tão empolgada.  
-
+  
 Mas na semana seguinte seria de provas na escola.  E meu pai me orientou a focar nos estudos nesta semana e nas provas na semana seguinte.  Na sexta-feira após as provas eu começaria a preparar a palestra.  Teria o final de semana para preparar-me.  A viagem seria na segunda-feira.  
-
+  
 Minha irmã Isabelle me ajudou muito para dar tudo certo.  
-
+  
 Rapidinho chegou o dia da minha viagem.  Ainda lembro o meu pai dizendo:  “O tempo não espera ninguém”!  Minhas amigas pareciam estar mais ansiosas do que eu...   
-
+  
 Passei a viagem TODA revisando a palestra, mas mesmo assim valeu a pena.   
-
+  
 Assim que chegamos no hotel, revisamos mais uma vez, e minha amigas não me deixavam em paz, perguntavam a todo momento como estava sendo.  
-
+  
 Como dizia Oscar Schmidt:  “Quanto mais treino, mais sorte tenho”.  
-
+  
 No dia seguinte acordamos cedo. Tomamos café da manhã e partimos rumo ao evento.  Chegamos lá e pouco tempo depois o professor Isidro chegou e começamos a dar uma última preparada na palestra.   
-
+  
 <a href="https://www.youtube.com/watch?v=xYAbxsnSJ74">https://www.youtube.com/watch?v=xYAbxsnSJ74</a>  
-
+  
 Logo as crianças, em torno de 50, começaram a entrar na sala.  Umas olharam para mim sem entender o que eu fazia ali.   
+  
+Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele simplesmente já andou o mundo quase todo!).  
 
-Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele simplesmente já andou o mundo quase todo!). 
 <img src="/images/20160322_132415.jpg" alt="Foto com o Sr. Fung" class="inline"/>    
 
 Após elas se acomodarem eu e o professor Isidro nos apresentamos e contamos um pouco de como iria ser.   
-
-<a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a>  
   
+<a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a>  
+    
 Liberamos pro coffee breake, e eu conheci a maioria das crianças.  Tinha uns que faziam coisas que para eles não pareciam muito importantes e legais mas para mim era incrível.    
 
 Lembro de um menino que andava com um cubo mágico de um lado para o outro e em um instante o resolvia.  Parecia mesmo mágica!  
@@ -270,9 +281,9 @@ Empreendedor
 Programador e apaixonado por ensinar programação  
   
 <h2>Programaê na Php Experience’2016</h2>
-
-<img src="/images/FB_IMG_1459115410308.jpg" alt="Foto palestra na PHP Experience" class="inline"/>  
   
+<img src="/images/FB_IMG_1459115410308.jpg" alt="Foto palestra na PHP Experience" class="inline"/>  
+    
 Após terminar a minha palestra teve um coffee break <3, e assim que acabou nós começamos a apresentar o Programaê para eles. Mostramos a hora do código e começamos a faze-la.  
   
 Nós fizemos a hora do código com o pessoal, chamamos alguns deles pra fazer a hora do código lá na frente. Eles pensavam que programar era algo impossível, coisa de super gênio, mas viram na prática que não era.  
@@ -281,11 +292,12 @@ Usamos o jogo do Angry Birds e do Star Wars, foi muito divertido. Para auxiliar 
   
 Quando a gente começou a fazer os jogos muitos ficaram com medo de errar e eu entendo esse lado deles, todos os dias os nossos pais, a nossa família e até na escola eles não querem que erremos, querem que sempre tiremos notas altas e sejam os melhores, mas eles deveriam entender mais que  não é bem assim, temos dificuldade e na maioria medo de assumir elas e o que eles irão pensar.  
   
->- Isso é só desculpa para tirar uma nota baixa!  
->- Você não tem motivo nenhum para tirar notas baixas!  
-
+> - Isso é só desculpa para tirar uma nota baixa!  
+  
+> - Você não tem motivo nenhum para tirar notas baixas!  
+  
 Mas temos sim, não somos bons em tudo e as vezes essa pressão em ser o melhor e nunca errar pesa na consciência, como no caso daqueles que estavam assistindo a palestra. Eu passo por isso porque eles não passariam? Mas o que eu queria também mostrar para eles que errar faz parte, que se você errar pode tentar de novo e de novo até acertar.  
- 
+  
 Teve 3 meninos que erraram na primeira tentativa, mas acho que consegui mostrar para eles e para os outros que se pode tentar de novo, e assim eles acertaram na segunda tentativa.    
  
 XXXXXXXX VÍDEO DA ATIVIDADE  
