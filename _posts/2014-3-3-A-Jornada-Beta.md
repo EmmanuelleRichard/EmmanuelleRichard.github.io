@@ -19,7 +19,8 @@ A única mulher lá era a recepcionista.
 
 Era um pouco difícil ir para as aulas pois eu achava muito complicado tudo.  Lá era código bruto mesmo, php , Java e outras linguagens.  Os professores ensinavam coisas que eu nem entendia direito e além de ser nada didático nem divertido, eu não entendia a necessidade de fazer as coisas que ele pedia.   
   
-> -Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!     
+> -Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!   
+  
 > -Tá, legal, mas pra que eu vou usar isso?   
   
 Eles me mandavam e me ensinavam a fazer coisas um pouco sem lógica para uma criança. 
