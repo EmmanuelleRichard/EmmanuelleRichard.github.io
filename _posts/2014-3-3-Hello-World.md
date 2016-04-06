@@ -18,77 +18,76 @@ Quando eu tinha uns 8 ou 9 anos meu pai me colocou junto com a minha irmã Isabe
 A única mulher lá era a recepcionista.  
 
 Era um pouco difícil ir para as aulas pois eu achava muito complicado tudo.  Lá era código bruto mesmo, php , Java e outras linguagens.  Os professores ensinavam coisas que eu nem entendia direito e além de ser nada didático nem divertido, eu não entendia a necessidade de fazer as coisas que ele pedia.   
+  
+> -Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!
+> -Tá, legal, mas pra que eu vou usar isso?  
 
-<dl>
-<dd>“Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!”</dd>
-<dd>Tá, legal, mas pra que eu vou usar isso?</dd>
-<dl>   
 Eles me mandavam e me ensinavam a fazer coisas um pouco sem lógica para uma criança. 
-
+  
 Acredito que, também, sem sentido para um adulto.   
 
 <h1><strong>Redenção</strong></h1>  
 
-No segundo semestre de 2014, eu, meu pai e minha irmã mais velha, fomos à Campus Party Recife.  Foi nossa primeira Campus Party.  Fomos de carro em uma viagem de cerca de 5 horas.  Como não tínhamos experiência com este evento, não ficamos nas barracas.  
+No segundo semestre de 2014, eu, meu pai e minha irmã mais velha, fomos à Campus Party Recife.  Foi nossa primeira Campus Party.  Fomos de carro em uma viagem de cerca de 5 horas.  Como não tínhamos experiência com este evento, não ficamos nas barracas.  <br/>
   
-Meu pai arranjou um apartamento emprestado de um amigo e, lá prá meia noite íamos para o apartamento dormir.  No dia seguinte chegavamos lá pelas 9:00h.  Ficávamos sempre com a sensação de que saiamos deixando de participar de muita coisa legal e que quando chegavamos tinhamos perdido, também, muita coisa legal.  A Campus não para.  Depois das palestas, que encerram-se lá prás 23:00h tem muita coisa que acontece.  Muitas atividades.  Jogos, competições, filmes…  
+Meu pai arranjou um apartamento emprestado de um amigo e, lá prá meia noite íamos para o apartamento dormir.  No dia seguinte chegavamos lá pelas 9:00h.  Ficávamos sempre com a sensação de que saiamos deixando de participar de muita coisa legal e que quando chegavamos tinhamos perdido, também, muita coisa legal.  A Campus não para.  Depois das palestas, que encerram-se lá prás 23:00h tem muita coisa que acontece.  Muitas atividades.  Jogos, competições, filmes…   
+  
 Na volta para casa decidimos que iriamos à de São Paulo.  Mas desta vez, ficaríamos acampados para aproveitar ao máximo tudo.   
-
+  
 No começo de 2015, meu pai, eu e minha irmã mais velha fomos para a Campus Party Brasil, que ocorre em São Paulo.  Desta vez ficamos acampados.    
 
 <img src="/images/20150203_212422.jpg" alt="Foto nas barracas - campus party brasil" class="inline"/> 
+  
 Mas ninguém quer ficar nas barracas.  Simplesmente a gente não quer dormir para aproveitar tudo!   
 
 <img src="/images/20150725_140120.jpg" alt="Foto alice jogando - campus party recife" class="inline"/> 
 Minha irmã Richelle não queria de jeito nenhum ir dormir...   
 
 Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 ( http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html ).  Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!   
-
+  
 <img src="/images/20150204_133302.jpg" alt="Foto com Nicolelis" class="inline"/> 
-
+  
 <h1><strong>Programaê</strong></h1> 
-
+  
 Foi na Campus onde conheci o Programaê.  Lembro de dois homenzinhos, que depois virei amiga de um deles , o Leo.  Eles estavam com um carrinho de picolé e eu, que não sou besta, pedi um para eles. Mas eles me disseram que eu precisaria jogar um game para ganhar um ticket e retirar o picolé. Fui super empolgada fazer o que eles tinham me dito e o que eu tinha que fazer no game era fazer o Angry Bird pegar um porquinho.  Foi muito fácil e legal.   
-
+  
 Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: “como assim? moça tu tá bem?” Eu não acreditei que aquele jogo era para ensinar programação.   Como os meus professores não usaram ele comigo?  Consegui meu picolé e mesmo depois de voltar para minha cidade continuei acessando o programaê algumas vezes para me divertir um pouco.   
+  
+><h3>Sobre o Programaê</h3>
 
-<dl>
-<dd>Sobre o Programaê</dd>  
-<dd>
-A programação é vista por muitos como um bicho de sete cabeças. Criar um software ou aplicativo sem estudo formal em uma faculdade especializada parece ser uma tarefa impossível. Queremos provar que não é bem assim e que, na verdade, qualquer um pode aprender a programar: basta falar a língua dos computadores.  
+>A programação é vista por muitos como um bicho de sete cabeças. Criar um software ou aplicativo sem estudo formal em uma faculdade especializada parece ser uma tarefa impossível. Queremos provar que não é bem assim e que, na verdade, qualquer um pode aprender a programar: basta falar a língua dos computadores.  
 
-O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
+>O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
 
-O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
+>O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
 
-Nosso objetivo é aproximar a programação do cotidiano de jovens de todo o Brasil. Pra fazer isso, desenvolvemos um portal prático e agregador de ideias, soluções e dicas de pessoas experientes e inspiradoras. Dá só uma olhada no nosso manifesto e faça parte deste movimento que quer transformar o mundo e ajudá-lo a criar um todinho seu!   
+>Nosso objetivo é aproximar a programação do cotidiano de jovens de todo o Brasil. Pra fazer isso, desenvolvemos um portal prático e agregador de ideias, soluções e dicas de pessoas experientes e inspiradoras. Dá só uma olhada no nosso manifesto e faça parte deste movimento que quer transformar o mundo e ajudá-lo a criar um todinho seu!   
 
-</dd> 
-<dd>Manifesto: </dd> 
-<ul>
-<li>Imagine criar o que você sonha.</li>  
-<li>Transformar o que você não concorda.</li>  
-<li>Reinventar o mundo e a você mesmo.</li>  
-<li>Se comunicar em código.</li> 
-<li>Em palavras.</li>  
-<li>Em ideias.</li> 
-</ul>
-</dl>   
-Imagine usar suas ideias como combustível para crescer. 
+><h4>Manifesto: </h4> 
 
-Eu invento meu mundo por códigos.  
+>* Imagine criar o que você sonha.
+>* Transformar o que você não concorda.
+>* Reinventar o mundo e a você mesmo.
+>* Se comunicar em código.
+>* Em palavras.
+>* Em ideias.
 
-A minha arte vive entre parênteses e colchetes.   
+>Imagine usar suas ideias como combustível para crescer. 
 
-Eu acredito na programação porque eu crio minhas próprias portas, desenho o caminho que vou seguir.   
+>Eu invento meu mundo por códigos.  
 
-Foi programando que eu aprendi que o meu mundo, crio eu.  
+>A minha arte vive entre parênteses e colchetes.   
 
-E você também pode criar o seu!  
+>Eu acredito na programação porque eu crio minhas próprias portas, desenho o caminho que vou seguir.   
 
-<a href="http://www.programae.org.br ">Acesse o nosso site</a> 
+>Foi programando que eu aprendi que o meu mundo, crio eu.  
+
+>E você também pode criar o seu!  
+
+><a href="http://www.programae.org.br ">http://www.programae.org.br</a> 
 
 <h1><strong>Campus Party Recife 2015</strong></h1>  
+  
 <div align="center"><img src="/images/12476524_836819446445830_1681592703_n.jpg" alt="Foto com o Bruno Palma" class="inline"/></div>   
 
 Na campus de Recife do mesmo ano eu tive a felicidade de reencontrar o programaê e ainda conhecer as pessoas que faziam esse projeto maravilhoso.    
@@ -96,8 +95,9 @@ Na campus de Recife do mesmo ano eu tive a felicidade de reencontrar o programa�
 Eu estava passeando pela campus quando avistei a mesa do programaê. Eu fiquei tipo “OMG eles estão aqui!!!!” mas eu tentei parecer o mais normal possível.     
 
 Cheguei sorrateiramente perto deles e perguntei quem era o responsável pelo projeto. Não me lembro muito bem quem veio falar comigo, mas essa pessoa perguntou como eu tinha conhecido o projeto e o que eu achava.  Contei para eles da minha experiência com o Programaê e começamos a conversar sobre o projeto.  Eu cada vez mais me envolvia nele e me impressionava com o quanto ele impactava as pessoas. Fiquei sabendo deles que iria ter um workshop como o professor Isidro e eu logo decidi participar.   
-
+  
 O workshop era na parte Open da campus - a que fica aberta para todos.  As pessoas que estavam participando eram crianças de escolas da rede pública e, ao que me parecia, nunca tinham tido acesso a programação. Elas estavam fascinadas.   
+  
 No meu lado sentou um menino que estava com um pouco de dificuldade.  Eu vi que poderia ajudá-lo e assim fiz.  E foi sensacional ajudar alguém a fazer algo que eu já sabia.  Senti-me como aqueles caras que eu sempre via nos eventos que ia com o meu pai e que sempre achava incrível o quanto eles adoravam compartilhar conhecimentos.    
 
 Pouco tempo depois o Professor Isidro me apresentou para as crianças.  Eu me senti estranha - Emmanuelle a diferentona com um estilo que nem sei dizer do que se trata, que anda pelos eventos com orelhas de gatinho ou com uma touca de cachorro.  Elas me olharam tentando decifrar o ser que eu sou.  Mas logo perceberam que sou uma pessoal legal :) Acho que ao me verem lá perceberam que eu era como eles;  que não era nenhum super gênio ou algo do tipo; que também tira nota baixas.   
@@ -137,6 +137,7 @@ Na volta para casa eu disse para meu pai que queria fazer um aplicativo.  Ele me
 Pois bem, eu lhe disse:  - “Até o fim deste ano eu farei meu primeiro aplicativo”!  
 
 <h1><strong>Primeiro APP</strong></h1>
+
 <h2>Apoio</h2>
 <img src="/images/11326432_118752478466757_1209250096_n.jpg" alt="Meu pai" class="inline"/>  
 
@@ -251,84 +252,90 @@ Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de va
 <a href="http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/">http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/</a>  
 <a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
 
-<h2><strong>QUEM É O PROFESSOR ISIDRO MASSETTO</strong><h2>
+<h2>QUEM É O PROFESSOR ISIDRO MASSETTO</h2>
+
 <img src="/images/FB_IMG_1459115420148.jpg" alt="Foto com o Isidro" class="inline"/>    
-<dl>
-<dd>PhD Computer Engineering</dd>
-<dd>Pesquisador em Game Development, Cloud, Mobile</dd>
-<dd>Fundador da TechSchool - Instituto de Tecnologia</dd>
-<dd>Curador do palco Desenvolvimento da Campus Party</dd>
-<dd>Empreendedor</dd>
-<dd>Programador e apaixonado por ensinar programação</dd>
-</dl> 
-<h2><strong>Programaê na Php Experience’2016</strong><h2>
+>PhD Computer Engineering (Doutor em Engenharia da Computação)
+>Pesquisador em Game Development, Cloud, Mobile
+>Fundador da TechSchool - Instituto de Tecnologia
+>Curador do palco Desenvolvimento da Campus Party
+>Empreendedor
+>Programador e apaixonado por ensinar programação
+  
+<h2>Programaê na Php Experience’2016</h2>
+
 <img src="/images/FB_IMG_1459115410308.jpg" alt="Foto palestra na PHP Experience" class="inline"/>  
+  
 Após terminar a minha palestra teve um coffee break <3, e assim que acabou nós começamos a apresentar o Programaê para eles. Mostramos a hora do código e começamos a faze-la.  
-
+  
 Nós fizemos a hora do código com o pessoal, chamamos alguns deles pra fazer a hora do código lá na frente. Eles pensavam que programar era algo impossível, coisa de super gênio, mas viram na prática que não era.  
-
+  
 Usamos o jogo do Angry Birds e do Star Wars, foi muito divertido. Para auxiliar eles nos jogos, facilitar o entendimento, simulamos o jogo ali na frente. E assim conseguimos explicar como funciona, eles ficaram boquiabertos ao ver código que fizeram.  
-
+  
 Quando a gente começou a fazer os jogos muitos ficaram com medo de errar e eu entendo esse lado deles, todos os dias os nossos pais, a nossa família e até na escola eles não querem que erremos, querem que sempre tiremos notas altas e sejam os melhores, mas eles deveriam entender mais que  não é bem assim, temos dificuldade e na maioria medo de assumir elas e o que eles irão pensar.  
-
-“Isso é só desculpa para tirar uma nota baixa!”
-“Você não tem motivo nenhum para tirar notas baixas!”   
+  
+>- Isso é só desculpa para tirar uma nota baixa!  
+>- Você não tem motivo nenhum para tirar notas baixas!  
 
 Mas temos sim, não somos bons em tudo e as vezes essa pressão em ser o melhor e nunca errar pesa na consciência, como no caso daqueles que estavam assistindo a palestra. Eu passo por isso porque eles não passariam? Mas o que eu queria também mostrar para eles que errar faz parte, que se você errar pode tentar de novo e de novo até acertar.  
-
-Teve 3 meninos que erraram na primeira tentativa, mas acho que consegui mostrar para eles e para os outros que se pode tentar de novo, e assim eles acertaram na segunda tentativa.  
-
+ 
+Teve 3 meninos que erraram na primeira tentativa, mas acho que consegui mostrar para eles e para os outros que se pode tentar de novo, e assim eles acertaram na segunda tentativa.    
+ 
 XXXXXXXX VÍDEO DA ATIVIDADE  
-
+  
 A Hora do Código é uma iniciativa da Code.org que quer desmistificar a programação e mostrar a alunos, professores e pais como este universo pode ser divertido!  
-
+  
 A cada ano, essa corrente atinge milhões de pessoas no mundo todo.  
 
-<h2><strong>FATEC</strong><h2>
+<h2>FATEC</h2>
+  
 <img src="/images/FB_IMG_1459115456720.jpg" alt="Foto palestra na FATEC" class="inline"/>    
+  
 Após acabar a palestra, fiquei sabendo que o Professor Isidro iria fazer outras duas palestras na Fatec (Faculdade de Tecnologia do Estado de São Paulo), e eu, é claro, colei nele e fui assisti-las.   
-
+  
 Antes de começar ele me disse que gostaria que eu subisse no palco, no final da palestra para contar um pouco para os estudantes como era a programação para mim. Fiquei surpresa e um pouco impressionada ao saber que dos que assistiram à primeira palestra só DOIS já tinham feito algo.   
-
+  
 Eu achei muito estranho o fato de que só umas 4 pessoas já tinham experiência trabalhando com a programação e o mais engraçado é que elas estavam terminado a faculdade.   
-
+  
 O público da primeira palestra era um mais recente na faculdade, e alguns não sabiam direito nem o que estavam lá. O que mais me surpreendeu e me deixou feliz foi ver que tinham professoras lá.  Uma delas é a Ana Cláudia.  Uma professora que é um amor de pessoa e que eu ADORARIA ter aulas com ela.  As experiências dela são incríveis e naquele pouco tempo, acho que sem ela mesmo perceber, me ensinou muito do que vou encontrar no futuro nessa área.  
-
+  
 Quando os alunos começaram a chegar me olharam estranho, tipo “O que essa menina de orelhinhas está fazendo aqui?” Teve até um grupinho que ficou olhando para mim e eu achei eles super fofos *-*.   
-
+  
 <a href="https://youtu.be/kVj3riBHy8E">https://youtu.be/kVj3riBHy8E</a>   
-
-
+  
 Quando o Professor Isidro me chamou no palco mais uma vez, eu fiquei um pouco apreensiva, poi não tinha me preparado para esse público.  Mas, aquele grupinho super fofo mesmo sem perceber me passou confiança, e foi estranho saber que muitos nunca fizeram nada para ultrapassar as barreiras da faculdade, limitando-se apenas às atividades propostas pelos professores.  
-
+  
 Tinham pouquíssimas meninas, e eu as entendo.  Às vezes é desconfortável estar em um lugar em que você é a única menina.  Eles não dão muito crédito, acham que eu estou lá só para acompanhar meu pai quando na maioria das vezes é ele que está me acompanhando.  Chega até a ser engraçado.   
-
-Mas as vezes eles acham sensacional que uma menina ainda na minha idade já queira ser programadora e faça sites e aplicativos e mais uma vez ele compartilham seus sagrados conhecimentos que faço questão de prestar o máximo de atenção e sugar o máximo que posso.   
-
+  
+Mas às vezes eles acham sensacional que uma menina ainda na minha idade já queira ser programadora e faça sites e aplicativos e mais uma vez ele compartilham seus sagrados conhecimentos que faço questão de prestar o máximo de atenção e sugar o máximo que posso.    
+  
 Depois da primeira palestra nós fomos lanchar com a professora Ana e, como sempre, ela foi um amor de pessoa.  Ela, o professor Isidro, sua esposa a linda Luana e meu pai começaram a compartilhar os seus conhecimentos, quando, de repente, um moço chegou falando que o pessoal tinha adorado a minha participação e mostrou os comentários nas redes sociais.  Eu, lógico, fiquei muito feliz.  
-
+  
 O segundo público já estava quase terminando a faculdade e tinha a mesma coisa do outro público, não chegava nem a umas 4 pessoas que já tinham feito algo sem ser para a faculdade. A diferença é que se tinha mais mulheres que dá primeira.
-Tinha um dos alunos que já trabalhava como freelancer no ramo, e provou para os colegas dele que a programação é a única área em que mesmo sem um diploma ou algo do tipo, sem sair de casa e sem conhecer direito pra quem você trabalhando, consegue ganhar dinheiro.  
-
-Conheci até um Pós Doutor.  Não um simples “Pós Doutor”;  ele tem vários Pós doutorados.   Veja que para ter um título desses é necessário fazer a graduação, mestrado e doutorado.  Só depois é que pode tornar-se Pós Doutor.  São poucos os que temos no Brasil.  Infelizmente não me lembro do nome dele.  Nunca imaginei que um homem daqueles iria falar comigo, mas, além de muito simpático ele é muito humilde, também.  Verdadeiramente é um exemplo a ser seguido.  Ele também me indicou várias faculdades que eu posso tentar entrar.  
-
+Tinha um dos alunos que já trabalhava como freelancer no ramo, e provou para os colegas dele que a programação é a única área em que mesmo sem um diploma ou algo do tipo, sem sair de casa e sem conhecer direito pra quem você trabalhando, consegue ganhar dinheiro.   
+  
+Conheci até um Pós Doutor.  Não um simples "Pós Doutor";  ele tem vários Pós doutorados.   Veja que para ter um título desses é necessário fazer a graduação, mestrado e doutorado.  Só depois é que pode tornar-se Pós Doutor.  São poucos os que temos no Brasil.  Infelizmente não me lembro do nome dele.  Nunca imaginei que um homem daqueles iria falar comigo, mas, além de muito simpático ele é muito humilde, também.  Verdadeiramente é um exemplo a ser seguido.  Ele também me indicou várias faculdades que eu posso tentar entrar.  
+  
 XXXXXXXX (VIDEO DA APRESENTACAO NA FATEC)  
+
 XXXXXXXX<font color="blue">Foto com outras pessoas FATEC</font>  
 
 <h1><strong>Conclusão?</strong><h1>
+  
 <h2>Prova de química</h2>  
+  
 (a lógica de programação me ajudou na prova de química, eu nem lembrava a fórmula nem nada)  
-
+  
 Aprender a programar não é nenhum bicho de 7 cabeças, você só precisa querer e contar com o apoio e incentivo do Programaê é muito melhor! Com a programação você pode fazer o que quiser,  sua imaginação e criatividade não tem limites. Porque em vez de jogar, não criar um jogo?   
-
+  
 (falar do fung, pessoas que temos que “seguir”. competição?)  
-
+  
 Acho tão louco as outras profissões e até no dia a dia, competir para ser muito melhor que o outro. Um pouco de competição é legal mas as vezes a coisa fica feia, por exemplo, quando alguém é muito bom em alguma coisa e não ensina nada para outro que não é muito bom para que assim ele não “pegue” o seu lugar. E no ramo da programação é tudo ao contrário, tem pessoas que mesmo se elas não conhecerem, ou nunca tiverem usado a tecnologia, elas aprendem só para tentar te ajudar, e isso é INCRÍVEL. Na PHP Experience e na Fatec eu presenciei isso mais uma vez, e é muito legal ver que todos amam compartilhar conhecimentos. E o melhor ainda é vê o quanto se esforçaram para isso, o quanto eles miram alto.  
-
+  
 Como uma das frases favoritas da minha irmã Isabelle,
-“Mire a lua, e se não acertá-la, aterrissará entre as estrelas”- P.S Eu Te Amo
-
+“Mire a lua, e se não acertá-la, aterrisisará entre as estrelas”- P.S Eu Te Amo
+  
 
 <!--![Restaurante Coreano]({{ site.baseurl }}/images/restaurantecoreano.png)-->
+  
 
-<!--The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.-->
