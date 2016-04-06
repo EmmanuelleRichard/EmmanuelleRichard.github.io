@@ -19,10 +19,10 @@ A única mulher lá era a recepcionista.
 
 Era um pouco difícil ir para as aulas pois eu achava muito complicado tudo.  Lá era código bruto mesmo, php , Java e outras linguagens.  Os professores ensinavam coisas que eu nem entendia direito e além de ser nada didático nem divertido, eu não entendia a necessidade de fazer as coisas que ele pedia.   
 
-  <dl>
-  <dd>“Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!”</dd>
-  <dd>Tá, legal, mas pra que eu vou usar isso?</dd>
-  <dl>   
+<dl>
+<dd>“Vamos fazer uma calculadora que consiga resolver uma equação de segundo grau!”</dd>
+<dd>Tá, legal, mas pra que eu vou usar isso?</dd>
+<dl>   
 Eles me mandavam e me ensinavam a fazer coisas um pouco sem lógica para uma criança. 
 
 Acredito que, também, sem sentido para um adulto.   
@@ -54,26 +54,26 @@ Foi na Campus onde conheci o Programaê.  Lembro de dois homenzinhos, que depois
 Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: “como assim? moça tu tá bem?” Eu não acreditei que aquele jogo era para ensinar programação.   Como os meus professores não usaram ele comigo?  Consegui meu picolé e mesmo depois de voltar para minha cidade continuei acessando o programaê algumas vezes para me divertir um pouco.   
 
 <dl>
-  <dd>Sobre o Programaê</dd>  
-  <dd>
-  A programação é vista por muitos como um bicho de sete cabeças. Criar um software ou aplicativo sem estudo formal em uma faculdade especializada parece ser uma tarefa impossível. Queremos provar que não é bem assim e que, na verdade, qualquer um pode aprender a programar: basta falar a língua dos computadores.  
-  
-  O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
-  
-  O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
-  
-  Nosso objetivo é aproximar a programação do cotidiano de jovens de todo o Brasil. Pra fazer isso, desenvolvemos um portal prático e agregador de ideias, soluções e dicas de pessoas experientes e inspiradoras. Dá só uma olhada no nosso manifesto e faça parte deste movimento que quer transformar o mundo e ajudá-lo a criar um todinho seu!   
-  
-  </dd> 
-  <dd>Manifesto: </dd> 
-  <ul>
-    <li>Imagine criar o que você sonha.</li>  
-    <li>Transformar o que você não concorda.</li>  
-    <li>Reinventar o mundo e a você mesmo.</li>  
-    <li>Se comunicar em código.</li> 
-    <li>Em palavras.</li>  
-    <li>Em ideias.</li> 
-  </ul>
+<dd>Sobre o Programaê</dd>  
+<dd>
+A programação é vista por muitos como um bicho de sete cabeças. Criar um software ou aplicativo sem estudo formal em uma faculdade especializada parece ser uma tarefa impossível. Queremos provar que não é bem assim e que, na verdade, qualquer um pode aprender a programar: basta falar a língua dos computadores.  
+
+O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
+
+O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
+
+Nosso objetivo é aproximar a programação do cotidiano de jovens de todo o Brasil. Pra fazer isso, desenvolvemos um portal prático e agregador de ideias, soluções e dicas de pessoas experientes e inspiradoras. Dá só uma olhada no nosso manifesto e faça parte deste movimento que quer transformar o mundo e ajudá-lo a criar um todinho seu!   
+
+</dd> 
+<dd>Manifesto: </dd> 
+<ul>
+<li>Imagine criar o que você sonha.</li>  
+<li>Transformar o que você não concorda.</li>  
+<li>Reinventar o mundo e a você mesmo.</li>  
+<li>Se comunicar em código.</li> 
+<li>Em palavras.</li>  
+<li>Em ideias.</li> 
+</ul>
 </dl>   
 Imagine usar suas ideias como combustível para crescer. 
 
@@ -91,189 +91,189 @@ E você também pode criar o seu!
 
 <h1><strong>Campus Party Recife 2015</strong></h1>  
 <font color="#0000FF">Foto com o bruno - campus</font>  
-  Na campus de Recife do mesmo ano eu tive a felicidade de reencontrar o programaê e ainda conhecer as pessoas que faziam esse projeto maravilhoso.    
-  
-  Eu estava passeando pela campus quando avistei a mesa do programaê. Eu fiquei tipo “OMG eles estão aqui!!!!” mas eu tentei parecer o mais normal possível.     
-  
-  Cheguei sorrateiramente perto deles e perguntei quem era o responsável pelo projeto. Não me lembro muito bem quem veio falar comigo, mas essa pessoa perguntou como eu tinha conhecido o projeto e o que eu achava.  Contei para eles da minha experiência com o Programaê e começamos a conversar sobre o projeto.  Eu cada vez mais me envolvia nele e me impressionava com o quanto ele impactava as pessoas. Fiquei sabendo deles que iria ter um workshop como o professor Isidro e eu logo decidi participar.   
-  
-  O workshop era na parte Open da campus - a que fica aberta para todos.  As pessoas que estavam participando eram crianças de escolas da rede pública e, ao que me parecia, nunca tinham tido acesso a programação. Elas estavam fascinadas.   
-  No meu lado sentou um menino que estava com um pouco de dificuldade.  Eu vi que poderia ajudá-lo e assim fiz.  E foi sensacional ajudar alguém a fazer algo que eu já sabia.  Senti-me como aqueles caras que eu sempre via nos eventos que ia com o meu pai e que sempre achava incrível o quanto eles adoravam compartilhar conhecimentos.    
-  
-  Pouco tempo depois o Professor Isidro me apresentou para as crianças.  Eu me senti estranha - Emmanuelle a diferentona com um estilo que nem sei dizer do que se trata, que anda pelos eventos com orelhas de gatinho ou com uma touca de cachorro.  Elas me olharam tentando decifrar o ser que eu sou.  Mas logo perceberam que sou uma pessoal legal :) Acho que ao me verem lá perceberam que eu era como eles;  que não era nenhum super gênio ou algo do tipo; que também tira nota baixas.   
+Na campus de Recife do mesmo ano eu tive a felicidade de reencontrar o programaê e ainda conhecer as pessoas que faziam esse projeto maravilhoso.    
+
+Eu estava passeando pela campus quando avistei a mesa do programaê. Eu fiquei tipo “OMG eles estão aqui!!!!” mas eu tentei parecer o mais normal possível.     
+
+Cheguei sorrateiramente perto deles e perguntei quem era o responsável pelo projeto. Não me lembro muito bem quem veio falar comigo, mas essa pessoa perguntou como eu tinha conhecido o projeto e o que eu achava.  Contei para eles da minha experiência com o Programaê e começamos a conversar sobre o projeto.  Eu cada vez mais me envolvia nele e me impressionava com o quanto ele impactava as pessoas. Fiquei sabendo deles que iria ter um workshop como o professor Isidro e eu logo decidi participar.   
+
+O workshop era na parte Open da campus - a que fica aberta para todos.  As pessoas que estavam participando eram crianças de escolas da rede pública e, ao que me parecia, nunca tinham tido acesso a programação. Elas estavam fascinadas.   
+No meu lado sentou um menino que estava com um pouco de dificuldade.  Eu vi que poderia ajudá-lo e assim fiz.  E foi sensacional ajudar alguém a fazer algo que eu já sabia.  Senti-me como aqueles caras que eu sempre via nos eventos que ia com o meu pai e que sempre achava incrível o quanto eles adoravam compartilhar conhecimentos.    
+
+Pouco tempo depois o Professor Isidro me apresentou para as crianças.  Eu me senti estranha - Emmanuelle a diferentona com um estilo que nem sei dizer do que se trata, que anda pelos eventos com orelhas de gatinho ou com uma touca de cachorro.  Elas me olharam tentando decifrar o ser que eu sou.  Mas logo perceberam que sou uma pessoal legal :) Acho que ao me verem lá perceberam que eu era como eles;  que não era nenhum super gênio ou algo do tipo; que também tira nota baixas.   
 
 <font color="#0000FF">Foto minha de perfil - campus</font>  
 
-  O Professor Isidro e o Richard (não é o meu pai.  É outra pessoa, rs rs) fizeram uma dinâmica muito engraçada. Eles simularam o jogo do Angry birds da hora do código; O Richard era o passarinho e a gente tinha que dar os comandos para ele. Foi muito engraçado.  
-  
-  Eles viram que programar era algo possível e fácil.  
+O Professor Isidro e o Richard (não é o meu pai.  É outra pessoa, rs rs) fizeram uma dinâmica muito engraçada. Eles simularam o jogo do Angry birds da hora do código; O Richard era o passarinho e a gente tinha que dar os comandos para ele. Foi muito engraçado.  
+
+Eles viram que programar era algo possível e fácil.  
 
 <h1><strong>Apresentação na Campus Party</strong></h1>  
 
 <font color="#0000FF">Foto palestra na campus</font>  
-  
-  Mais tarde fui assistir a palestra do Programaê no palco principal.  Eu estava lá sentada como todas as outras pessoas, quando um moço me convidou para subir ao palco para dar um depoimento sobre a minha experiência como programadora!  (Sou brinquedo não….).  Fui pega de surpresa e, por um instante fiquei sem acreditar naquilo.  Fiquei tipo O.O.  Mas sabia que poderia inspirar outras crianças e, até mesmo, adultos, a embarcarem nesse mundo maravilhoso da programação.  Sabia que tinha uma missão a cumprir.  
-  
-  O título da palestra foi:  “O uso da programação para empreender por Programaê”.  Veja no link da Campus Party: <a href="http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/">http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/</a> e o vídeo no YouTube: <a href="https://youtu.be/zCXdB51Z0A0?t=1786">https://youtu.be/zCXdB51Z0A0?t=1786</a>   
-  
-  Olha só quem estava no palco:  
-  <ul>
-      <li>Alison Paese (Mediador).  Fundador e diretor do canal Foras de Série. Foi sócio-executivo da XP Investimentos, trabalhando diretamente com o desenvolvimento da rede de empreendedores. Além disso, foi responsável pela área de inovação e novos negócios do portal InfoMoney, sendo co-fundador do StartSe. Apaixonado por empreendedorismo, cinema e cultura geek, tem como principal papel na vida conectar pessoas e projetos</li>
-      <li>André Braga.  É fundador da plataforma de venda de ingressos eventick.com.br, empresário da web e produtor de eventos com experiência no mercado publicitário.</li>
-      <li>Lucas Machado.  Coordenador de Projetos na área de produtos de inovação para a educação na Fundação Lemann, incluindo plataformas como o Programaê!, Khan Academy, Coursera e Youtube Edu. Engenheiro de Computação formado pela Universidade Federal de Itajubá e pós-graduando em Inteligência de Mercado pela Saint Paul Escola de Negócios, trabalhou com desenvolvimento de softwares para bancos islâmicos, durante o ano em que morou na Malásia, e foi trainee no mercado financeiro.</li>
-      <li>Eiran Simis. Criador do eventplatz.com (plataforma de busca e oferta de espaços para eventos), é gerente da área de Empreendedorismo do Centro de Estudos e Sistemas Avançados do Recife, consultor do Porto Digital e do SEBRAE, curador da Campus Party e professor de pós graduação do CESAR.EDU, UPE e da Uninassau. Já foi membro do conselho de administração da SiliconReef S/A.</li>
-        <li>Vinicius Gracia.  Atual CTO & Founder da Easy Taxi. Ele é responsável por toda arquitetura, sistemas e apps de 32 países e tem como missão que o mesmo aplicativo, usado ao redor do globo funcione e se adapte as necessidades diferentes de cada região. Está na Easy Taxi desde a concepção da ideia e realizou o projeto e desenvolvimento de todos os sistemas necessários para a operação. Vinícius sempre teve espirito empreendedor, participou do desenvolvimento um sistema de helpdesk para IBM, todo baseado em web, antes da internet existir no Brasil, era necessário conectar com a IBM, atráves de internet discada, ligando para os EUA. Desenvolveu sistemas de helpdesk para Acer, Packard Bell, o Compaq Phone, Vários provedores de internet como Mandic, Domain, Openlink. É sócio de mais duas empresas de tecnologia, JGracia informática que faz todo sistema de delivery e gerencia de franquias do Giraffas e da Techsamurai que foi onde surgiu a Easy Taxi. Formado em ciência da computação nos Estados Unidos e Engenharia da Computação no Brasil. Vinicius já viajou o mundo mergulhando em diversos locais, como Egito, Cuba, México, Costa Rica, Israel, Grécia, inclusive é sócio e fundador de uma escola de mergulho no Rio de Janeiro, chamada Dive Point.</li>
-    </ul>
-  Só Gente TOP!!!!  
-  
-  Eu achava que tinha poucas pessoas lá mas pelo contrário, tinha até gente em pé. A perspectiva de baixo é muito diferente da de lá de cima do palco.  Com uma multidão de pessoas lhe olhando.  Eu não tinha me preparado para falar em público, mas deixei “rolar” e contei da minha experiência com a programação e de como o Programaê foi importante para que eu decidisse o que quero fazer na vida.  
-  
-  Eu acabei gostando de compartilhar minha experiência com aquelas pessoas, mas  o mais engraçado é que era uma criança falando para um monte de adultos.   
-  
-  Enquanto estava no palco eu tratei de forma séria e responsável, mas quando desci, senti-me muito feliz.  É prazeroso compartilhar nossas experiências e conhecimentos com outras pessoas.  
-  
-  Na volta para casa eu disse para meu pai que queria fazer um aplicativo.  Ele me disse que ajudaria se eu tivesse uma meta SMART (eSpecífica, Mensurável, Alcançável, Realizável e com Tempo definido).  
-  
-  Pois bem, eu lhe disse:  - “Até o fim deste ano eu farei meu primeiro aplicativo”!  
+
+Mais tarde fui assistir a palestra do Programaê no palco principal.  Eu estava lá sentada como todas as outras pessoas, quando um moço me convidou para subir ao palco para dar um depoimento sobre a minha experiência como programadora!  (Sou brinquedo não….).  Fui pega de surpresa e, por um instante fiquei sem acreditar naquilo.  Fiquei tipo O.O.  Mas sabia que poderia inspirar outras crianças e, até mesmo, adultos, a embarcarem nesse mundo maravilhoso da programação.  Sabia que tinha uma missão a cumprir.  
+
+O título da palestra foi:  “O uso da programação para empreender por Programaê”.  Veja no link da Campus Party: <a href="http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/">http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/</a> e o vídeo no YouTube: <a href="https://youtu.be/zCXdB51Z0A0?t=1786">https://youtu.be/zCXdB51Z0A0?t=1786</a>   
+
+Olha só quem estava no palco:  
+<ul>
+  <li>Alison Paese (Mediador).  Fundador e diretor do canal Foras de Série. Foi sócio-executivo da XP Investimentos, trabalhando diretamente com o desenvolvimento da rede de empreendedores. Além disso, foi responsável pela área de inovação e novos negócios do portal InfoMoney, sendo co-fundador do StartSe. Apaixonado por empreendedorismo, cinema e cultura geek, tem como principal papel na vida conectar pessoas e projetos</li>
+  <li>André Braga.  É fundador da plataforma de venda de ingressos eventick.com.br, empresário da web e produtor de eventos com experiência no mercado publicitário.</li>
+  <li>Lucas Machado.  Coordenador de Projetos na área de produtos de inovação para a educação na Fundação Lemann, incluindo plataformas como o Programaê!, Khan Academy, Coursera e Youtube Edu. Engenheiro de Computação formado pela Universidade Federal de Itajubá e pós-graduando em Inteligência de Mercado pela Saint Paul Escola de Negócios, trabalhou com desenvolvimento de softwares para bancos islâmicos, durante o ano em que morou na Malásia, e foi trainee no mercado financeiro.</li>
+  <li>Eiran Simis. Criador do eventplatz.com (plataforma de busca e oferta de espaços para eventos), é gerente da área de Empreendedorismo do Centro de Estudos e Sistemas Avançados do Recife, consultor do Porto Digital e do SEBRAE, curador da Campus Party e professor de pós graduação do CESAR.EDU, UPE e da Uninassau. Já foi membro do conselho de administração da SiliconReef S/A.</li>
+    <li>Vinicius Gracia.  Atual CTO & Founder da Easy Taxi. Ele é responsável por toda arquitetura, sistemas e apps de 32 países e tem como missão que o mesmo aplicativo, usado ao redor do globo funcione e se adapte as necessidades diferentes de cada região. Está na Easy Taxi desde a concepção da ideia e realizou o projeto e desenvolvimento de todos os sistemas necessários para a operação. Vinícius sempre teve espirito empreendedor, participou do desenvolvimento um sistema de helpdesk para IBM, todo baseado em web, antes da internet existir no Brasil, era necessário conectar com a IBM, atráves de internet discada, ligando para os EUA. Desenvolveu sistemas de helpdesk para Acer, Packard Bell, o Compaq Phone, Vários provedores de internet como Mandic, Domain, Openlink. É sócio de mais duas empresas de tecnologia, JGracia informática que faz todo sistema de delivery e gerencia de franquias do Giraffas e da Techsamurai que foi onde surgiu a Easy Taxi. Formado em ciência da computação nos Estados Unidos e Engenharia da Computação no Brasil. Vinicius já viajou o mundo mergulhando em diversos locais, como Egito, Cuba, México, Costa Rica, Israel, Grécia, inclusive é sócio e fundador de uma escola de mergulho no Rio de Janeiro, chamada Dive Point.</li>
+</ul>
+Só Gente TOP!!!!  
+
+Eu achava que tinha poucas pessoas lá mas pelo contrário, tinha até gente em pé. A perspectiva de baixo é muito diferente da de lá de cima do palco.  Com uma multidão de pessoas lhe olhando.  Eu não tinha me preparado para falar em público, mas deixei “rolar” e contei da minha experiência com a programação e de como o Programaê foi importante para que eu decidisse o que quero fazer na vida.  
+
+Eu acabei gostando de compartilhar minha experiência com aquelas pessoas, mas  o mais engraçado é que era uma criança falando para um monte de adultos.   
+
+Enquanto estava no palco eu tratei de forma séria e responsável, mas quando desci, senti-me muito feliz.  É prazeroso compartilhar nossas experiências e conhecimentos com outras pessoas.  
+
+Na volta para casa eu disse para meu pai que queria fazer um aplicativo.  Ele me disse que ajudaria se eu tivesse uma meta SMART (eSpecífica, Mensurável, Alcançável, Realizável e com Tempo definido).  
+
+Pois bem, eu lhe disse:  - “Até o fim deste ano eu farei meu primeiro aplicativo”!  
 
 <h1><strong>Primeiro APP</strong></h1>
 <h2>Apoio</h2>
-    <font color="blue">Foto com painho na campus</font>   
+<font color="blue">Foto com painho na campus</font>   
 
-  Meu pai me apoiou completamente.  Mas deixou bem claro que iria ajudar; não fazer por mim.  
-  Começamos a pensar o que faríamos.  Depois de muito “Brainstorm” (processo no qual liberamos geral a criatividade e a leseira), lembrei-me da feira de ciências da escola, que chamamos de “Jornada”.  
-  
-  A Jornada é uma feira de ciências que envolve a escola toda.  As turmas são divididas em  grupos com temas, vários alunos e um ou mais professor orientador.  E as apresentações são realizadas nas salas de aula.  
-  Algumas salas de aula recebem vários grupos.  
-  
-  O meu pai sempre tinha dificuldade para encontrar a sala onde estávamos apresentando nossas atividades.  A escola afixa cartazes com a programação,  distribui panfletos e disponibiliza uma pessoa na recepção para orientar, mas não é prático e, para piorar, há alterações de última hora.  
-  
-  Um aplicativo em que a direção pudesse cadastrar as informações das atividades em tempo real seria muito útil.  
+Meu pai me apoiou completamente.  Mas deixou bem claro que iria ajudar; não fazer por mim.  
+Começamos a pensar o que faríamos.  Depois de muito “Brainstorm” (processo no qual liberamos geral a criatividade e a leseira), lembrei-me da feira de ciências da escola, que chamamos de “Jornada”.  
+
+A Jornada é uma feira de ciências que envolve a escola toda.  As turmas são divididas em  grupos com temas, vários alunos e um ou mais professor orientador.  E as apresentações são realizadas nas salas de aula.  
+Algumas salas de aula recebem vários grupos.  
+
+O meu pai sempre tinha dificuldade para encontrar a sala onde estávamos apresentando nossas atividades.  A escola afixa cartazes com a programação,  distribui panfletos e disponibiliza uma pessoa na recepção para orientar, mas não é prático e, para piorar, há alterações de última hora.  
+
+Um aplicativo em que a direção pudesse cadastrar as informações das atividades em tempo real seria muito útil.  
 
 <h2>Permissão da Diretora</h2>
-  Decidido o que faríamos fomos pedir permissão da diretora.  Ela achou muito estranho que uma aluna da escola fizesse uma proposta dessas, mas deu o seu aval.  
-  
-  Ela nos encaminhou para falarmos com a Assessora de Marketing, que nos passaria os detalhes da organização do evento.  
+Decidido o que faríamos fomos pedir permissão da diretora.  Ela achou muito estranho que uma aluna da escola fizesse uma proposta dessas, mas deu o seu aval.  
+
+Ela nos encaminhou para falarmos com a Assessora de Marketing, que nos passaria os detalhes da organização do evento.  
 
 <h2>Desafiada</h2>
-  O jeito que a Diretora me tratou, por mais que tenha sido delicada, meiga e cortês, eu fiquei com a impressão de que ela não me disse não por questão de pedagogia ou psicologia e que, no fundo, não acreditava muito que uma aluna da escola fosse capaz, realmente de fazer um aplicativo desses.  Mesmo assim deixou só para não me deixar triste com o seu pensamento.  Acho que tem algo com a “pedagogia”, rs rs rs.  Não dizer para uma pessoa que ela não é capaz… rs rs rs  Acredito que minha impressão tenha sido exagerada, mas é porque em Natal não há fomento nem incentivo para desenvolvimento tecnológico, muito menos para programação.  Tenho certeza de que ela não teve esse pensamento, mas eu fiquei com essa pulga atrás da orelha...   
-  
-  Antes de me desestimular só me fez encarar o aplicativo ainda mais como um desafio.  Já que eu iria mostrar não só para ela, mas também para todas as outras pessoas que ficaram sabendo, já que a história “vazou”.... rs rs rs   
-  
-  Com o aval da Diretora, agendamos uma reunião com a Assessora de Marketing para outro dia, pois ela não encontrava-se na escola.    
-  
-  Foi melhor assim porque pude me preparar melhor.  
+O jeito que a Diretora me tratou, por mais que tenha sido delicada, meiga e cortês, eu fiquei com a impressão de que ela não me disse não por questão de pedagogia ou psicologia e que, no fundo, não acreditava muito que uma aluna da escola fosse capaz, realmente de fazer um aplicativo desses.  Mesmo assim deixou só para não me deixar triste com o seu pensamento.  Acho que tem algo com a “pedagogia”, rs rs rs.  Não dizer para uma pessoa que ela não é capaz… rs rs rs  Acredito que minha impressão tenha sido exagerada, mas é porque em Natal não há fomento nem incentivo para desenvolvimento tecnológico, muito menos para programação.  Tenho certeza de que ela não teve esse pensamento, mas eu fiquei com essa pulga atrás da orelha...   
+
+Antes de me desestimular só me fez encarar o aplicativo ainda mais como um desafio.  Já que eu iria mostrar não só para ela, mas também para todas as outras pessoas que ficaram sabendo, já que a história “vazou”.... rs rs rs   
+
+Com o aval da Diretora, agendamos uma reunião com a Assessora de Marketing para outro dia, pois ela não encontrava-se na escola.    
+
+Foi melhor assim porque pude me preparar melhor.  
 
 <h2>Reunião de negócios</h2>
-  Fomos eu e meu pai para a reunião.  Como ele já é experiente em reuniões de negócios, me orientou a como vestir-me e me deu algumas dicas de como me comportar e até como apertar a mão para passar firmeza e segurança.  Ele me fez entender que esta seria uma reunião de negócios e que a escola deveria ser tratada por mim como meu primeiro cliente.  
-  
-  A reunião foi tranquila.  A Assessora passou-me vários materiais que ela tinha, relacionados ao evento do ano anterior.  
-  
-  Mas eu tinha imaginado algo muito mais simples… brrrrr….  
+Fomos eu e meu pai para a reunião.  Como ele já é experiente em reuniões de negócios, me orientou a como vestir-me e me deu algumas dicas de como me comportar e até como apertar a mão para passar firmeza e segurança.  Ele me fez entender que esta seria uma reunião de negócios e que a escola deveria ser tratada por mim como meu primeiro cliente.  
+
+A reunião foi tranquila.  A Assessora passou-me vários materiais que ela tinha, relacionados ao evento do ano anterior.  
+
+Mas eu tinha imaginado algo muito mais simples… brrrrr….  
 
 <h2>Sangue, suor e lágrimas</h2>
-  Meu pai não me deu moleza…  
-  
-  Ele impôs que o sistema teria que ter várias características, pois já que eu havia decidido embarcar, que fosse com estilo!  
-  
-  A parte client do sistema teria uma versão web e outra mobile, sendo que ambas teriam o mesmo código (eita!).  Assim o sistema seria acessível para quem tem smartphone e quem não tem acessaria via browser.  Facilitaria, também,  para a direção da escola poder cadastrar e alterar, de forma muito mais prática.  
-  
-  Porisso teria que ter um módulo servidor, que foi desenvolvido em Ruby on Rails com banco de dados em Mysql.  
-  
-  Teria que ter controle de usuários, para determinar quem poderia alterar os dados.  
-  
-  E, como nem todos têm acesso à internet o tempo todo, teria que funcionar offline.  
-  
-  Simplesmente, mega simples….  
-  
-  Felizmente o meu pai ficou responsável pelo Server e eu pelo client.  Ele me passou várias dicas e orientações, mas, por mais que me eu insistisse para ele mexer no meu código, ele só ficou na orientação.  
-  
-  Mas, consegui!  
+Meu pai não me deu moleza…  
+
+Ele impôs que o sistema teria que ter várias características, pois já que eu havia decidido embarcar, que fosse com estilo!  
+
+A parte client do sistema teria uma versão web e outra mobile, sendo que ambas teriam o mesmo código (eita!).  Assim o sistema seria acessível para quem tem smartphone e quem não tem acessaria via browser.  Facilitaria, também,  para a direção da escola poder cadastrar e alterar, de forma muito mais prática.  
+
+Porisso teria que ter um módulo servidor, que foi desenvolvido em Ruby on Rails com banco de dados em Mysql.  
+
+Teria que ter controle de usuários, para determinar quem poderia alterar os dados.  
+
+E, como nem todos têm acesso à internet o tempo todo, teria que funcionar offline.  
+
+Simplesmente, mega simples….  
+
+Felizmente o meu pai ficou responsável pelo Server e eu pelo client.  Ele me passou várias dicas e orientações, mas, por mais que me eu insistisse para ele mexer no meu código, ele só ficou na orientação.  
+
+Mas, consegui!  
 
 <h2>Entrega</h2>
-  Quando mostrei o aplicativo para a  Diretora da escola, ela ficou super empolgada ( e super hiper mega feliz).  Ela não acreditava que uma criança da sua escola fosse capaz de um feito desses.   Ela chamou a supervisora, coordenadora, assessora de marketing, e todo mundo da “cúpula” para mostrar o app.  Eu me senti nas nuvens. Eles passaram a me olhar e a me tratar diferente.  
-  
-  Até a dona da escola falou comigo!  
+Quando mostrei o aplicativo para a  Diretora da escola, ela ficou super empolgada ( e super hiper mega feliz).  Ela não acreditava que uma criança da sua escola fosse capaz de um feito desses.   Ela chamou a supervisora, coordenadora, assessora de marketing, e todo mundo da “cúpula” para mostrar o app.  Eu me senti nas nuvens. Eles passaram a me olhar e a me tratar diferente.  
+
+Até a dona da escola falou comigo!  
 
 <h2>Júbilo</h2>
-  Quando a gerente de marketing divulgou o aplicativo e o número de downloads começou a subir foi maravilhoso.  A todo instante eu verificava na loja.  
-  
-  É sensacional ver as pessoas usando o aplicativo que eu fiz.  É indescritível (chega a ser melhor que ganhar um presente que você quer muito).   
-  
-  Fico imaginando como deve ser para Zuckerberg, Bill Gates, Steve Jobs e todos os outros, ter milhares de pessoas usando algo que você criou e que está impactando as vidas delas.  
-  
-  E no dia da Feira de ciências, que eu cheguei lá, vi as pessoas usando e algumas baixando na hora.  Foi maravilhoso. 
-  Colocaram até uns cartazes divulgando o app na escola, e muitas pessoas que eu nem conhecia vieram falar comigo sobre ele.  Perguntando como eu consegui fazer, o que elas precisavam para fazer um também, me elogiando ^-^, foi muito legal.   
-  
-  Fiquei sabendo depois que na jornada, os pais que não tinham o app e que chagavam perguntando para a recepcionista onde seus filhos estavam ou sobre alguma palestra, ela rapidamente sacava o aplicativo e indicava a sala onde ocorria a apresentação e ainda mostrava o mapa.  
+Quando a gerente de marketing divulgou o aplicativo e o número de downloads começou a subir foi maravilhoso.  A todo instante eu verificava na loja.  
+
+É sensacional ver as pessoas usando o aplicativo que eu fiz.  É indescritível (chega a ser melhor que ganhar um presente que você quer muito).   
+
+Fico imaginando como deve ser para Zuckerberg, Bill Gates, Steve Jobs e todos os outros, ter milhares de pessoas usando algo que você criou e que está impactando as vidas delas.  
+
+E no dia da Feira de ciências, que eu cheguei lá, vi as pessoas usando e algumas baixando na hora.  Foi maravilhoso. 
+Colocaram até uns cartazes divulgando o app na escola, e muitas pessoas que eu nem conhecia vieram falar comigo sobre ele.  Perguntando como eu consegui fazer, o que elas precisavam para fazer um também, me elogiando ^-^, foi muito legal.   
+
+Fiquei sabendo depois que na jornada, os pais que não tinham o app e que chagavam perguntando para a recepcionista onde seus filhos estavam ou sobre alguma palestra, ela rapidamente sacava o aplicativo e indicava a sala onde ocorria a apresentação e ainda mostrava o mapa.  
 
 <h2>Primeiro evento</h2>
-  Tinha acabado de chegar em casa, era uma terça-feira e estava na hora do almoço, e teria que almoçar rápido para voltar a escola. Quando recebo uma mensagem; era o Bruno me convidando para ir palestrar na Php Experience’2016 em São Paulo.  Quase caí da escada quando fui mostrar para o meu pai.  Mas, sobrevivi.  Acho que nunca me senti tão empolgada.  
-  
-  Mas na semana seguinte seria de provas na escola.  E meu pai me orientou a focar nos estudos nesta semana e nas provas na semana seguinte.  Na sexta-feira após as provas eu começaria a preparar a palestra.  Teria o final de semana para preparar-me.  A viagem seria na segunda-feira.  
-  
-  Minha irmã Isabelle me ajudou muito para dar tudo certo.  
-  
-  Rapidinho chegou o dia da minha viagem.  Ainda lembro o meu pai dizendo:  “O tempo não espera ninguém”!  Minhas amigas pareciam estar mais ansiosas do que eu...   
-  
-  Passei a viagem TODA revisando a palestra, mas mesmo assim valeu a pena.   
-  
-  Assim que chegamos no hotel, revisamos mais uma vez, e minha amigas não me deixavam em paz, perguntavam a todo momento como estava sendo.  
-  
-  Como dizia Oscar Schmidt:  “Quanto mais treino, mais sorte tenho”.  
-  
-  No dia seguinte acordamos cedo. Tomamos café da manhã e partimos rumo ao evento.  Chegamos lá e pouco tempo depois o professor Isidro chegou e começamos a dar uma última preparada na palestra.   
+Tinha acabado de chegar em casa, era uma terça-feira e estava na hora do almoço, e teria que almoçar rápido para voltar a escola. Quando recebo uma mensagem; era o Bruno me convidando para ir palestrar na Php Experience’2016 em São Paulo.  Quase caí da escada quando fui mostrar para o meu pai.  Mas, sobrevivi.  Acho que nunca me senti tão empolgada.  
 
-  <a href="https://www.youtube.com/watch?v=xYAbxsnSJ74">https://www.youtube.com/watch?v=xYAbxsnSJ74</a>  
+Mas na semana seguinte seria de provas na escola.  E meu pai me orientou a focar nos estudos nesta semana e nas provas na semana seguinte.  Na sexta-feira após as provas eu começaria a preparar a palestra.  Teria o final de semana para preparar-me.  A viagem seria na segunda-feira.  
 
-  Logo as crianças, em torno de 50, começaram a entrar na sala.  Umas olharam para mim sem entender o que eu fazia ali.   
-  
-  Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele simplesmente já andou o mundo quase todo!).   
-  <font color="blue">Foto com Fung</font>  
-  
-  Após elas se acomodarem eu e o professor Isidro nos apresentamos e contamos um pouco de como iria ser.   
+Minha irmã Isabelle me ajudou muito para dar tudo certo.  
 
-  <a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a>  
- 
-  
-  Liberamos pro coffee breake, e eu conheci a maioria das crianças.  Tinha uns que faziam coisas que para eles não pareciam muito importantes e legais mas para mim era incrível.    
-  
-  Lembro de um menino que andava com um cubo mágico de um lado para o outro e em um instante o resolvia.  Parecia mesmo mágica!  
-  
-  Um youtuber muito estiloso que andava de um lado para o outro com um caderninho e uma caneta em mãos junto do celular registrando tudo.  
-  
-  E, uma menina que adora kpop, assim como eu, e que sabe falar em coreano e ano que vem vai estudar na coreia.   
-  Esses são algumas das pessoas incríveis que conheci, e todo eles não achavam que aquilo que fazia é incrível ou especial.  
+Rapidinho chegou o dia da minha viagem.  Ainda lembro o meu pai dizendo:  “O tempo não espera ninguém”!  Minhas amigas pareciam estar mais ansiosas do que eu...   
 
-  <font color="blue">Foto com o pessoal da palestra</font>  
+Passei a viagem TODA revisando a palestra, mas mesmo assim valeu a pena.   
 
-  Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de vagas, mas apenas 400 mil profissionais capacitados – ou seja, um milhão de vagas sobrando. E isso é apenas nos Estados Unidos. Veja neste link:
-    <a href="http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/">http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/</a>  
-    <a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
-  
+Assim que chegamos no hotel, revisamos mais uma vez, e minha amigas não me deixavam em paz, perguntavam a todo momento como estava sendo.  
+
+Como dizia Oscar Schmidt:  “Quanto mais treino, mais sorte tenho”.  
+
+No dia seguinte acordamos cedo. Tomamos café da manhã e partimos rumo ao evento.  Chegamos lá e pouco tempo depois o professor Isidro chegou e começamos a dar uma última preparada na palestra.   
+
+<a href="https://www.youtube.com/watch?v=xYAbxsnSJ74">https://www.youtube.com/watch?v=xYAbxsnSJ74</a>  
+
+Logo as crianças, em torno de 50, começaram a entrar na sala.  Umas olharam para mim sem entender o que eu fazia ali.   
+
+Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele simplesmente já andou o mundo quase todo!).   
+<font color="blue">Foto com Fung</font>  
+
+Após elas se acomodarem eu e o professor Isidro nos apresentamos e contamos um pouco de como iria ser.   
+
+<a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a>  
+
+
+Liberamos pro coffee breake, e eu conheci a maioria das crianças.  Tinha uns que faziam coisas que para eles não pareciam muito importantes e legais mas para mim era incrível.    
+
+Lembro de um menino que andava com um cubo mágico de um lado para o outro e em um instante o resolvia.  Parecia mesmo mágica!  
+
+Um youtuber muito estiloso que andava de um lado para o outro com um caderninho e uma caneta em mãos junto do celular registrando tudo.  
+
+E, uma menina que adora kpop, assim como eu, e que sabe falar em coreano e ano que vem vai estudar na coreia.   
+Esses são algumas das pessoas incríveis que conheci, e todo eles não achavam que aquilo que fazia é incrível ou especial.  
+
+<font color="blue">Foto com o pessoal da palestra</font>  
+
+Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de vagas, mas apenas 400 mil profissionais capacitados – ou seja, um milhão de vagas sobrando. E isso é apenas nos Estados Unidos. Veja neste link:
+<a href="http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/">http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/</a>  
+<a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
+
 <h2><strong>QUEM É O PROFESSOR ISIDRO</strong><h2>
-  <font color="blue">Foto com o professor isidro</font>  
-  <dl>
-    <dd>PhD Computer Engineering</dd>
-    <dd>Pesquisador em Game Development, Cloud, Mobile</dd>
-    <dd>Fundador da TechSchool - Instituto de Tecnologia</dd>
-    <dd>Curador do palco Desenvolvimento da Campus Party</dd>
-    <dd>Empreendedor</dd>
-    <dd>Programador e apaixonado por ensinar programação</dd>
-  </dl> 
+<font color="blue">Foto com o professor isidro</font>  
+<dl>
+<dd>PhD Computer Engineering</dd>
+<dd>Pesquisador em Game Development, Cloud, Mobile</dd>
+<dd>Fundador da TechSchool - Instituto de Tecnologia</dd>
+<dd>Curador do palco Desenvolvimento da Campus Party</dd>
+<dd>Empreendedor</dd>
+<dd>Programador e apaixonado por ensinar programação</dd>
+</dl> 
 <h2><strong>Programaê na Php Experience’2016</strong><h2>
-    <font color="blue">Foto da palestra</font>  
-    Após terminar a minha palestra teve um coffee break <3, e assim que acabou nós começamos a apresentar o Programaê para eles. Mostramos a hora do código e começamos a faze-la.  
-    
+<font color="blue">Foto da palestra</font>  
+Após terminar a minha palestra teve um coffee break <3, e assim que acabou nós começamos a apresentar o Programaê para eles. Mostramos a hora do código e começamos a faze-la.  
+
 Nós fizemos a hora do código com o pessoal, chamamos alguns deles pra fazer a hora do código lá na frente. Eles pensavam que programar era algo impossível, coisa de super gênio, mas viram na prática que não era.  
 
 Usamos o jogo do Angry Birds e do Star Wars, foi muito divertido. Para auxiliar eles nos jogos, facilitar o entendimento, simulamos o jogo ali na frente. E assim conseguimos explicar como funciona, eles ficaram boquiabertos ao ver código que fizeram.  
 
 Quando a gente começou a fazer os jogos muitos ficaram com medo de errar e eu entendo esse lado deles, todos os dias os nossos pais, a nossa família e até na escola eles não querem que erremos, querem que sempre tiremos notas altas e sejam os melhores, mas eles deveriam entender mais que  não é bem assim, temos dificuldade e na maioria medo de assumir elas e o que eles irão pensar.  
 
- “Isso é só desculpa para tirar uma nota baixa!”
- “Você não tem motivo nenhum para tirar notas baixas!”   
- 
+“Isso é só desculpa para tirar uma nota baixa!”
+“Você não tem motivo nenhum para tirar notas baixas!”   
+
 Mas temos sim, não somos bons em tudo e as vezes essa pressão em ser o melhor e nunca errar pesa na consciência, como no caso daqueles que estavam assistindo a palestra. Eu passo por isso porque eles não passariam? Mas o que eu queria também mostrar para eles que errar faz parte, que se você errar pode tentar de novo e de novo até acertar.  
 
 Teve 3 meninos que erraram na primeira tentativa, mas acho que consegui mostrar para eles e para os outros que se pode tentar de novo, e assim eles acertaram na segunda tentativa.  
@@ -285,9 +285,9 @@ A Hora do Código é uma iniciativa da Code.org que quer desmistificar a program
 A cada ano, essa corrente atinge milhões de pessoas no mundo todo.  
 
 <h2><strong>FATEC</strong><h2>
-    XXXXXXXX<font color="blue">Foto da palestra na FATEC</font>  
-    Após acabar a palestra, fiquei sabendo que o Professor Isidro iria fazer outras duas palestras na Fatec (Faculdade de Tecnologia do Estado de São Paulo), e eu, é claro, colei nele e fui assisti-las.   
-    
+XXXXXXXX<font color="blue">Foto da palestra na FATEC</font>  
+Após acabar a palestra, fiquei sabendo que o Professor Isidro iria fazer outras duas palestras na Fatec (Faculdade de Tecnologia do Estado de São Paulo), e eu, é claro, colei nele e fui assisti-las.   
+
 Antes de começar ele me disse que gostaria que eu subisse no palco, no final da palestra para contar um pouco para os estudantes como era a programação para mim. Fiquei surpresa e um pouco impressionada ao saber que dos que assistiram à primeira palestra só DOIS já tinham feito algo.   
 
 Eu achei muito estranho o fato de que só umas 4 pessoas já tinham experiência trabalhando com a programação e o mais engraçado é que elas estavam terminado a faculdade.   
@@ -313,11 +313,11 @@ Tinha um dos alunos que já trabalhava como freelancer no ramo, e provou para os
 Conheci até um Pós Doutor.  Não um simples “Pós Doutor”;  ele tem vários Pós doutorados.   Veja que para ter um título desses é necessário fazer a graduação, mestrado e doutorado.  Só depois é que pode tornar-se Pós Doutor.  São poucos os que temos no Brasil.  Infelizmente não me lembro do nome dele.  Nunca imaginei que um homem daqueles iria falar comigo, mas, além de muito simpático ele é muito humilde, também.  Verdadeiramente é um exemplo a ser seguido.  Ele também me indicou várias faculdades que eu posso tentar entrar.  
 
 XXXXXXXX (VIDEO DA APRESENTACAO NA FATEC)  
-    XXXXXXXX<font color="blue">Foto com outras pessoas FATEC</font>  
+XXXXXXXX<font color="blue">Foto com outras pessoas FATEC</font>  
 
 <h1><strong>Conclusão?</strong><h1>
-  <h2>Prova de química</h2>  
-    (a lógica de programação me ajudou na prova de química, eu nem lembrava a fórmula nem nada)  
+<h2>Prova de química</h2>  
+(a lógica de programação me ajudou na prova de química, eu nem lembrava a fórmula nem nada)  
 
 Aprender a programar não é nenhum bicho de 7 cabeças, você só precisa querer e contar com o apoio e incentivo do Programaê é muito melhor! Com a programação você pode fazer o que quiser,  sua imaginação e criatividade não tem limites. Porque em vez de jogar, não criar um jogo?   
 
@@ -326,7 +326,7 @@ Aprender a programar não é nenhum bicho de 7 cabeças, você só precisa quere
 Acho tão louco as outras profissões e até no dia a dia, competir para ser muito melhor que o outro. Um pouco de competição é legal mas as vezes a coisa fica feia, por exemplo, quando alguém é muito bom em alguma coisa e não ensina nada para outro que não é muito bom para que assim ele não “pegue” o seu lugar. E no ramo da programação é tudo ao contrário, tem pessoas que mesmo se elas não conhecerem, ou nunca tiverem usado a tecnologia, elas aprendem só para tentar te ajudar, e isso é INCRÍVEL. Na PHP Experience e na Fatec eu presenciei isso mais uma vez, e é muito legal ver que todos amam compartilhar conhecimentos. E o melhor ainda é vê o quanto se esforçaram para isso, o quanto eles miram alto.  
 
 Como uma das frases favoritas da minha irmã Isabelle,
-    “Mire a lua, e se não acertá-la, aterrissará entre as estrelas”- P.S Eu Te Amo
+“Mire a lua, e se não acertá-la, aterrissará entre as estrelas”- P.S Eu Te Amo
 
 
 <!--![Restaurante Coreano]({{ site.baseurl }}/images/restaurantecoreano.png)-->
