@@ -89,7 +89,8 @@ E você também pode criar o seu!
 <a href="http://www.programae.org.br ">Acesse o nosso site</a> 
 
 <h1><strong>Campus Party Recife 2015</strong></h1>  
-<img src="/images/12476524_836819446445830_1681592703_n.jpg" alt="Foto com o Bruno Palma" class="inline"/>  
+<img src="/images/12476524_836819446445830_1681592703_n.jpg" alt="Foto com o Bruno Palma" class="inline"/>   
+
 Na campus de Recife do mesmo ano eu tive a felicidade de reencontrar o programaê e ainda conhecer as pessoas que faziam esse projeto maravilhoso.    
 
 Eu estava passeando pela campus quando avistei a mesa do programaê. Eu fiquei tipo “OMG eles estão aqui!!!!” mas eu tentei parecer o mais normal possível.     
