@@ -253,14 +253,15 @@ Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de va
 <a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
 
 <h2>QUEM É O PROFESSOR ISIDRO MASSETTO</h2>
-
-<img src="/images/FB_IMG_1459115420148.jpg" alt="Foto com o Isidro" class="inline"/>    
->PhD Computer Engineering (Doutor em Engenharia da Computação)
->Pesquisador em Game Development, Cloud, Mobile
->Fundador da TechSchool - Instituto de Tecnologia
->Curador do palco Desenvolvimento da Campus Party
->Empreendedor
->Programador e apaixonado por ensinar programação
+  
+<img src="/images/FB_IMG_1459115420148.jpg" alt="Foto com o Isidro" class="inline"/>   
+  
+PhD Computer Engineering (Doutor em Engenharia da Computação)  
+Pesquisador em Game Development, Cloud, Mobile  
+Fundador da TechSchool - Instituto de Tecnologia  
+Curador do palco Desenvolvimento da Campus Party  
+Empreendedor  
+Programador e apaixonado por ensinar programação  
   
 <h2>Programaê na Php Experience’2016</h2>
 
