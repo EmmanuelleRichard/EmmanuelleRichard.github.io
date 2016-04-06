@@ -2,10 +2,8 @@
 layout: post
 title: A Jornada - Beta
 ---
-<img src="/images/11889590_732908733503569_3604388608228844557_n.jpg" alt="hi" class="inline"/>
+<img src="/images/11889590_732908733503569_3604388608228844557_n.jpg" alt="hi" class="inline"/> 
 
-
-![Palestra Campus Party Recife]({{ site.baseurl }}/images/11889590_732908733503569_3604388608228844557_n.jpg)
 <h1><strong>Origem</strong></h1> 
 Meu nome é Emmanuelle Victória Richard de Moura, tenho 13 anos, estudo no 2º ano do Ensino médio e sou de Natal/RN.
 A programação sempre esteve presente na minha vida.  Meu pai é programador e sempre  incentivava a mim e minhas irmãs a programarem (somos três irmãs: Isabelle, Emmanuelle e Richelle).  
@@ -38,14 +36,15 @@ Na volta para casa decidimos que iriamos à de São Paulo.  Mas desta vez, ficar
 
 No começo de 2015, meu pai, eu e minha irmã mais velha fomos para a Campus Party Brasil, que ocorre em São Paulo.  Desta vez ficamos acampados.    
 
-[Foto nas barracas - campus party brasil]({{ site.baseurl }}/images/20150203_212422.jpg) 
+<img src="/images/20150203_212422.jpg" alt="Foto nas barracas - campus party brasil" class="inline"/> 
 Mas ninguém quer ficar nas barracas.  Simplesmente a gente não quer dormir para aproveitar tudo!   
 
-[Foto alice jogando - campus party recife]({{ site.baseurl }}/images/20150725_140120.jpg) 
+<img src="/images/20150725_140120.jpg" alt="Foto alice jogando - campus party recife" class="inline"/> 
 Minha irmã Richelle não queria de jeito nenhum ir dormir...   
 
 Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 ( http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html ).  Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!   
 
+<img src="/images/20150725_140120.jpg" alt="Foto alice jogando - campus party recife" class="inline"/> 
 [Foto com Nicolelis]({{ site.baseurl }}/images/20150204_133302.jpg) 
 
 <h1><strong>Programaê</strong></h1> 
@@ -91,7 +90,7 @@ E você também pode criar o seu!
 <a href="http://www.programae.org.br ">Acesse o nosso site</a> 
 
 <h1><strong>Campus Party Recife 2015</strong></h1>  
-[>Foto com o Bruno Palma]({{ site.baseurl }}/images/12476524_836819446445830_1681592703_n.jpg)  
+<img src="/images/12476524_836819446445830_1681592703_n.jpg" alt="Foto com o Bruno Palma" class="inline"/>  
 Na campus de Recife do mesmo ano eu tive a felicidade de reencontrar o programaê e ainda conhecer as pessoas que faziam esse projeto maravilhoso.    
 
 Eu estava passeando pela campus quando avistei a mesa do programaê. Eu fiquei tipo “OMG eles estão aqui!!!!” mas eu tentei parecer o mais normal possível.     
@@ -103,7 +102,7 @@ No meu lado sentou um menino que estava com um pouco de dificuldade.  Eu vi que 
 
 Pouco tempo depois o Professor Isidro me apresentou para as crianças.  Eu me senti estranha - Emmanuelle a diferentona com um estilo que nem sei dizer do que se trata, que anda pelos eventos com orelhas de gatinho ou com uma touca de cachorro.  Elas me olharam tentando decifrar o ser que eu sou.  Mas logo perceberam que sou uma pessoal legal :) Acho que ao me verem lá perceberam que eu era como eles;  que não era nenhum super gênio ou algo do tipo; que também tira nota baixas.   
 
-[Eu :)]({{ site.baseurl }}/images/12247990_776122599182182_2298923672350646150_o.jpg)  
+<img src="/images/12247990_776122599182182_2298923672350646150_o.jpg" alt="Eu" class="inline"/>  
 
 O Professor Isidro e o Richard (não é o meu pai.  É outra pessoa, rs rs) fizeram uma dinâmica muito engraçada. Eles simularam o jogo do Angry birds da hora do código; O Richard era o passarinho e a gente tinha que dar os comandos para ele. Foi muito engraçado.  
 
@@ -111,7 +110,7 @@ Eles viram que programar era algo possível e fácil.
 
 <h1><strong>Apresentação na Campus Party</strong></h1>  
 
-[Palestra no palco principal na Campus party recife]({{ site.baseurl }}/images/palcopalestra.png)  
+<img src="/images/palcopalestra.png" alt="Palestra no palco principal na Campus party recife" class="inline"/>  
 
 Mais tarde fui assistir a palestra do Programaê no palco principal.  Eu estava lá sentada como todas as outras pessoas, quando um moço me convidou para subir ao palco para dar um depoimento sobre a minha experiência como programadora!  (Sou brinquedo não….).  Fui pega de surpresa e, por um instante fiquei sem acreditar naquilo.  Fiquei tipo O.O.  Mas sabia que poderia inspirar outras crianças e, até mesmo, adultos, a embarcarem nesse mundo maravilhoso da programação.  Sabia que tinha uma missão a cumprir.  
 
@@ -139,7 +138,7 @@ Pois bem, eu lhe disse:  - “Até o fim deste ano eu farei meu primeiro aplicat
 
 <h1><strong>Primeiro APP</strong></h1>
 <h2>Apoio</h2>
-[Meu pai]({{ site.baseurl }}/images/11326432_118752478466757_1209250096_n.jpg)  
+<img src="/images/11326432_118752478466757_1209250096_n.jpg" alt="Meu pai" class="inline"/>  
 
 Meu pai me apoiou completamente.  Mas deixou bem claro que iria ajudar; não fazer por mim.  
 Começamos a pensar o que faríamos.  Depois de muito “Brainstorm” (processo no qual liberamos geral a criatividade e a leseira), lembrei-me da feira de ciências da escola, que chamamos de “Jornada”.  
@@ -229,8 +228,8 @@ No dia seguinte acordamos cedo. Tomamos café da manhã e partimos rumo ao event
 
 Logo as crianças, em torno de 50, começaram a entrar na sala.  Umas olharam para mim sem entender o que eu fazia ali.   
 
-Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele simplesmente já andou o mundo quase todo!).   
-[Foto com o Sr. Fung]({{ site.baseurl }}/images/20160322_132415.jpg)  
+Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele simplesmente já andou o mundo quase todo!). 
+<img src="/images/20160322_132415.jpg" alt="Foto com o Sr. Fung" class="inline"/>    
 
 Após elas se acomodarem eu e o professor Isidro nos apresentamos e contamos um pouco de como iria ser.   
 
@@ -246,14 +245,14 @@ Um youtuber muito estiloso que andava de um lado para o outro com um caderninho 
 E, uma menina que adora kpop, assim como eu, e que sabe falar em coreano e ano que vem vai estudar na coreia.   
 Esses são algumas das pessoas incríveis que conheci, e todo eles não achavam que aquilo que fazia é incrível ou especial.  
 
-[Foto com o pessoa da palestra]({{ site.baseurl }}/images/12885979_852823264823318_2637205354483228235_o.jpg)  
+<img src="/images/12885979_852823264823318_2637205354483228235_o.jpg" alt="Foto com o pessoa da palestra" class="inline"/>      
 
 Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de vagas, mas apenas 400 mil profissionais capacitados – ou seja, um milhão de vagas sobrando. E isso é apenas nos Estados Unidos. Veja neste link:
 <a href="http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/">http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/</a>  
 <a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
 
 <h2><strong>QUEM É O PROFESSOR ISIDRO MASSETTO</strong><h2>
-[Foto com o Isidro]({{ site.baseurl }}/images/FB_IMG_1459115420148.jpg)    
+<img src="/images/FB_IMG_1459115420148.jpg" alt="Foto com o Isidro" class="inline"/>    
 <dl>
 <dd>PhD Computer Engineering</dd>
 <dd>Pesquisador em Game Development, Cloud, Mobile</dd>
@@ -263,7 +262,7 @@ Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de va
 <dd>Programador e apaixonado por ensinar programação</dd>
 </dl> 
 <h2><strong>Programaê na Php Experience’2016</strong><h2>
-[Foto palestra na PHP Experience]({{ site.baseurl }}/images/FB_IMG_1459115410308.jpg)    
+<img src="/images/FB_IMG_1459115410308.jpg" alt="Foto palestra na PHP Experience" class="inline"/>  
 Após terminar a minha palestra teve um coffee break <3, e assim que acabou nós começamos a apresentar o Programaê para eles. Mostramos a hora do código e começamos a faze-la.  
 
 Nós fizemos a hora do código com o pessoal, chamamos alguns deles pra fazer a hora do código lá na frente. Eles pensavam que programar era algo impossível, coisa de super gênio, mas viram na prática que não era.  
@@ -286,7 +285,7 @@ A Hora do Código é uma iniciativa da Code.org que quer desmistificar a program
 A cada ano, essa corrente atinge milhões de pessoas no mundo todo.  
 
 <h2><strong>FATEC</strong><h2>
-[Foto palestra na FATEC]({{ site.baseurl }}/images/FB_IMG_1459115456720.jpg)    
+<img src="/images/FB_IMG_1459115456720.jpg" alt="Foto palestra na FATEC" class="inline"/>    
 Após acabar a palestra, fiquei sabendo que o Professor Isidro iria fazer outras duas palestras na Fatec (Faculdade de Tecnologia do Estado de São Paulo), e eu, é claro, colei nele e fui assisti-las.   
 
 Antes de começar ele me disse que gostaria que eu subisse no palco, no final da palestra para contar um pouco para os estudantes como era a programação para mim. Fiquei surpresa e um pouco impressionada ao saber que dos que assistiram à primeira palestra só DOIS já tinham feito algo.   
