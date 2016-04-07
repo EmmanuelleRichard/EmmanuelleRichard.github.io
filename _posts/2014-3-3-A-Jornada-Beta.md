@@ -106,6 +106,8 @@ Mais tarde fui assistir a palestra do Programaê no palco principal.  Eu estava 
 
 O título da palestra foi:  “O uso da programação para empreender por Programaê”.  Veja no link da Campus Party: <a href="http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/">http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/</a> e o vídeo no YouTube: <a href="https://youtu.be/zCXdB51Z0A0?t=1786">https://youtu.be/zCXdB51Z0A0?t=1786</a>   
 
+{% youtube zCXdB51Z0A0 %}
+
 Olha só quem estava no palco:  
 <ul>
   <li>Alison Paese (Mediador).  Fundador e diretor do canal Foras de Série. Foi sócio-executivo da XP Investimentos, trabalhando diretamente com o desenvolvimento da rede de empreendedores. Além disso, foi responsável pela área de inovação e novos negócios do portal InfoMoney, sendo co-fundador do StartSe. Apaixonado por empreendedorismo, cinema e cultura geek, tem como principal papel na vida conectar pessoas e projetos</li>
