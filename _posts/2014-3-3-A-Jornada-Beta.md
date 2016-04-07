@@ -54,7 +54,7 @@ Foi na Campus onde conheci o Programaê.  Lembro de dois homenzinhos, que depois
 Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: “como assim? moça tu tá bem?” Eu não acreditei que aquele jogo era para ensinar programação.   Como os meus professores não usaram ele comigo?  Consegui meu picolé e mesmo depois de voltar para minha cidade continuei acessando o programaê algumas vezes para me divertir um pouco.   
   
 ><h3>Sobre o Programaê</h3>
-
+>   
 >A programação é vista por muitos como um bicho de sete cabeças. Criar um software ou aplicativo sem estudo formal em uma faculdade especializada parece ser uma tarefa impossível. Queremos provar que não é bem assim e que, na verdade, qualquer um pode aprender a programar: basta falar a língua dos computadores.  
 >O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
 >O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
