@@ -43,7 +43,7 @@ Mas ninguém quer ficar nas barracas.  Simplesmente a gente não quer dormir par
 <img src="/images/20150725_140120.jpg" alt="Foto alice jogando - campus party recife" class="inline"/> 
 Minha irmã Richelle não queria de jeito nenhum ir dormir...   
 
-Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 ( http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html ).  Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!   
+Conheci muita gente bacana.  Como o Miguel Nicolelis, responsável pelo projeto "Andar de Novo", que permitiu a um paraplégico andar e chutar uma bola na abertura da copa de 2014 (<a href="http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html">http://g1.globo.com/ciencia-e-saude/noticia/2014/06/jovem-paraplegico-usa-exoesqueleto-chuta-bola-na-abertura-da-copa.html</a>). Simplesmente considerado um dos vinte maiores cientistas do mundo pela revista "Scientific American”!   
   
 <img src="/images/20150204_133302.jpg" alt="Foto com Nicolelis" class="inline"/> 
   
@@ -59,7 +59,7 @@ Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: �
 >O Programaê! foi criado justamente para isso: mostrar ao mundo que a programação é para todos, mobilizando cada vez mais pessoas em torno dessa causa. Para isso, ele reúne as melhores e mais simples ferramentas para aprender e ensinar a programar. Todas elas são gratuitas, em português e não exigem nenhum conhecimento prévio em programação.   
 >O Programaê! é uma iniciativa da Fundação Lemann e da Fundação Telefônica Vivo criado graças a um interesse em comum: nós acreditamos que a tecnologia tem um poder transformador incrível e usá-la para a educação pode fazer a diferença para muita gente.   
 >Nosso objetivo é aproximar a programação do cotidiano de jovens de todo o Brasil. Pra fazer isso, desenvolvemos um portal prático e agregador de ideias, soluções e dicas de pessoas experientes e inspiradoras. Dá só uma olhada no nosso manifesto e faça parte deste movimento que quer transformar o mundo e ajudá-lo a criar um todinho seu!   
-
+>
 ><h4>Manifesto: </h4> 
 >* Imagine criar o que você sonha.
 >* Transformar o que você não concorda.
@@ -67,7 +67,7 @@ Quando eu terminei a moça me disse que eu tinha programado.  Eu fiquei tipo: �
 >* Se comunicar em código.
 >* Em palavras.
 >* Em ideias.
-
+>
 >Imagine usar suas ideias como combustível para crescer. 
 >Eu invento meu mundo por códigos.  
 >A minha arte vive entre parênteses e colchetes.   
