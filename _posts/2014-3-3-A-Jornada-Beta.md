@@ -4,8 +4,6 @@ title: A Jornada - Beta
 ---
 <img src="/images/11889590_732908733503569_3604388608228844557_n.jpg" alt="hi" class="inline"/> 
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
 <h1><strong>Origem</strong></h1> 
 Meu nome é Emmanuelle Victória Richard de Moura, tenho 13 anos, estudo no 2º ano do Ensino médio e sou de Natal/RN.
 A programação sempre esteve presente na minha vida.  Meu pai é programador e sempre  incentivava a mim e minhas irmãs a programarem (somos três irmãs: Isabelle, Emmanuelle e Richelle).  
