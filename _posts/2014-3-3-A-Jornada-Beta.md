@@ -260,17 +260,17 @@ Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de va
   
 <img src="/images/FB_IMG_1459115420148.jpg" alt="Foto com o Isidro" class="inline"/>   
   
-PhD Computer Engineering (Doutor em Engenharia da Computação)  
+* PhD Computer Engineering (Doutor em Engenharia da Computação)  
   
-Pesquisador em Game Development, Cloud, Mobile  
+* Pesquisador em Game Development, Cloud, Mobile  
   
-Fundador da TechSchool - Instituto de Tecnologia  
+* Fundador da TechSchool - Instituto de Tecnologia  
   
-Curador do palco Desenvolvimento da Campus Party  
+* Curador do palco Desenvolvimento da Campus Party  
   
-Empreendedor  
+* Empreendedor  
   
-Programador e apaixonado por ensinar programação  
+* Programador e apaixonado por ensinar programação  
   
 <h2>Programaê na Php Experience’2016</h2>
   
