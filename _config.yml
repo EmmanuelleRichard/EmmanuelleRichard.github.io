@@ -9,7 +9,7 @@ name: Emmanuelle Richard
 description: Eu sou eu
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/EmmanuelleRichard/emmanuellerichard.github.io/blob/master/images/Snapchat-7943707680299676464.jpg 
+avatar: https://raw.githubusercontent.com/EmmanuelleRichard/emmanuellerichard.github.io/master/images/Snapchat-7943707680299676464.jpg
 
 #
 # Flags below are optional
@@ -21,8 +21,8 @@ footer-links:
   email: Emmanuellerichard@onbit.com.br
   facebook: https://www.facebook.com/emmanuelle.richard.0
   flickr:
-  github: EmmanuelleRichard
-  instagram: manu_richard
+  github: https://github.com/EmmanuelleRichard
+  instagram: https://www.instagram.com/manu_richard/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
