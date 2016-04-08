@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+	Meu nome é Emmanuelle Victória Richard de Moura 
 
-### More Information
+<!-- ### More Information -->
 
-A place to include any other types of information that you'd like to include about yourself.
-
+	Tenho 13 anos, curso o 2º ano de Ensino Médio. 
+<!-- A place to include any other types of information that you'd like to include about yourself. -->
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emmanuellerichard@onbit.com.br](mailto:emmanuellerichard@onbit.com.br)

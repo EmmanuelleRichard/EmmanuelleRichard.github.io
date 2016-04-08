@@ -106,7 +106,7 @@ Mais tarde fui assistir a palestra do Programaê no palco principal.  Eu estava 
 
 O título da palestra foi:  “O uso da programação para empreender por Programaê”.  Veja no link da Campus Party: <a href="http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/">http://campuse.ro/events/campus-party-recife-2015/talk/programacao-empreender-programae/</a> e o vídeo no YouTube: <a href="https://youtu.be/zCXdB51Z0A0?t=1786">https://youtu.be/zCXdB51Z0A0?t=1786</a>   
 
-{% youtube zCXdB51Z0A0 %}
+{% youtube zCXdB51Z0A0?t=1786 %}
 
 Olha só quem estava no palco:  
 <ul>
@@ -230,6 +230,8 @@ Como dizia Oscar Schmidt:  “Quanto mais treino, mais sorte tenho”.
 No dia seguinte acordamos cedo. Tomamos café da manhã e partimos rumo ao evento.  Chegamos lá e pouco tempo depois o professor Isidro chegou e começamos a dar uma última preparada na palestra.   
   
 <a href="https://www.youtube.com/watch?v=xYAbxsnSJ74">https://www.youtube.com/watch?v=xYAbxsnSJ74</a>  
+
+{% youtube xYAbxsnSJ74 %}
   
 Logo as crianças, em torno de 50, começaram a entrar na sala.  Umas olharam para mim sem entender o que eu fazia ali.   
   
@@ -239,7 +241,8 @@ Nesse meio tempo conheci umas pessoas incríveis entre elas o senhor Fung  (Ele 
 
 Após elas se acomodarem eu e o professor Isidro nos apresentamos e contamos um pouco de como iria ser.   
   
-<a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a>  
+<a href="https://www.youtube.com/watch?v=rR8LmrwwKSI">https://www.youtube.com/watch?v=rR8LmrwwKSI</a> 
+{% youtube rR8LmrwwKSI %} 
     
 Liberamos pro coffee breake, e eu conheci a maioria das crianças.  Tinha uns que faziam coisas que para eles não pareciam muito importantes e legais mas para mim era incrível.    
 
@@ -257,6 +260,7 @@ Segundo o CodeOrg, nos próximos 10 anos o mercado de TI terá 1,4 milhão de va
 <a href="http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/">http://www.b9.com.br/37238/opiniao/o-que-a-maioria-das-escolas-nao-ensina-mas-ainda-assim-podemos-e-devemos-aprender-parte-1/</a>  
   
 <a href="  https://youtu.be/T40BLLrU4lY">  https://youtu.be/T40BLLrU4lY</a>  
+{% youtube T40BLLrU4lY %} 
   
 <h2>QUEM É O PROFESSOR ISIDRO MASSETTO</h2>
   
@@ -314,6 +318,7 @@ O público da primeira palestra era um mais recente na faculdade, e alguns não 
 Quando os alunos começaram a chegar me olharam estranho, tipo “O que essa menina de orelhinhas está fazendo aqui?” Teve até um grupinho que ficou olhando para mim e eu achei eles super fofos *-*.   
   
 <a href="https://youtu.be/kVj3riBHy8E">https://youtu.be/kVj3riBHy8E</a>   
+{% youtube kVj3riBHy8E %} 
   
 Quando o Professor Isidro me chamou no palco mais uma vez, eu fiquei um pouco apreensiva, poi não tinha me preparado para esse público.  Mas, aquele grupinho super fofo mesmo sem perceber me passou confiança, e foi estranho saber que muitos nunca fizeram nada para ultrapassar as barreiras da faculdade, limitando-se apenas às atividades propostas pelos professores.  
   

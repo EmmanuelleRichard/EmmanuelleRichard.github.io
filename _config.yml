@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/EmmanuelleRichard/emmanuellerichard.gi
 footer-links:
   dribbble:
   email: Emmanuellerichard@onbit.com.br
-  facebook: https://www.facebook.com/emmanuelle.richard.0
+  facebook: emmanuelle.richard.0
   flickr:
   github: https://github.com/EmmanuelleRichard
-  instagram: https://www.instagram.com/manu_richard/
+  instagram: manu_richard/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UCJrh6T4UZKxp3i8XQrw4fYw # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCJrh6T4UZKxp3i8XQrw4fYw # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -84,3 +84,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+destination: _deploy
